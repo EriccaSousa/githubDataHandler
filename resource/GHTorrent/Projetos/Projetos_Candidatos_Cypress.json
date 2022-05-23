@@ -1,0 +1,56 @@
+[
+    {
+        "name": "fx2lib",
+        "url": "https://api.github.com/repos/RacingTornado/fx2lib",
+        "description": "Library routines for creating firmware for the Cypress FX2 (CY7C68013 and variants) with SDCC",
+        "NumDeCommits": "198"
+    },
+{
+        "name": "cypress-cli",
+        "url": "https://api.github.com/repos/cypress-io/cypress-cli",
+        "description": "CLI for Cypress.io Desktop App",
+        "NumDeCommits": "124"
+    },
+{
+        "name": "cypress-example-kitchensink",
+        "url": "https://api.github.com/repos/cypress-io/cypress-example-kitchensink",
+        "description": "This is an example app used to showcase Cypress.io testing.",
+        "NumDeCommits": "108"
+    },
+{
+        "name": "fx2lib",
+        "url": "https://api.github.com/repos/mithro/fx2lib",
+        "description": "Library routines for creating firmware for the Cypress FX2 (CY7C68013 and variants) with SDCC",
+        "NumDeCommits": "174"
+    },
+{
+        "name": "airquality",
+        "url": "https://api.github.com/repos/transistorize/airquality",
+        "description": "Cypress Hills Air Quality Project",
+        "NumDeCommits": "343"
+    },
+{
+        "name": "cypress-core-desktop-gui",
+        "url": "https://api.github.com/repos/cypress-io/cypress-core-desktop-gui",
+        "description": "Cypress Desktop App Gui",
+        "NumDeCommits": "306"
+    },
+{
+        "name": "cypress-documentation",
+        "url": "https://api.github.com/repos/cypress-io/cypress-documentation",
+        "description": "Cypress Documentation, Guides, API",
+        "NumDeCommits": "235"
+    },
+{
+        "name": "projectcypress.github.com",
+        "url": "https://api.github.com/repos/projectcypress/projectcypress.github.com",
+        "description": "Cypress website materials",
+        "NumDeCommits": "219"
+    },
+{
+        "name": "libcyusbserial",
+        "url": "https://api.github.com/repos/cyrozap/libcyusbserial",
+        "description": "This library enables userspace programs to control Cypress USB-Serial bridge chips.",
+        "NumDeCommits": "157"
+    }
+]

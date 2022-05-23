@@ -1,0 +1,2036 @@
+[
+    {
+        "name": "se34euca",
+        "url": "https://api.github.com/repos/eucalyptus/se34euca",
+        "description": "Eucalyptus User Console Test Framework Based on Selenium",
+        "NumDeCommits": "199"
+    },
+{
+        "name": "appium-dotnet-driver",
+        "url": "https://api.github.com/repos/TikhomirovSergey/appium-dotnet-driver",
+        "description": "Extension to the  official Selenium dotnet webdriver ",
+        "NumDeCommits": "111"
+    },
+{
+        "name": "phpunit-selenium",
+        "url": "https://api.github.com/repos/zerkms/phpunit-selenium",
+        "description": "Selenium RC integration for PHPUnit",
+        "NumDeCommits": "104"
+    },
+{
+        "name": "webdriverjs",
+        "url": "https://api.github.com/repos/Camme/webdriverjs",
+        "description": "Webdriver/selenium 2.0 javascript bindings for nodejs",
+        "NumDeCommits": "751"
+    },
+{
+        "name": "teaspoon",
+        "url": "https://api.github.com/repos/modeset/teaspoon",
+        "description": "Teaspoon: Javascript test runner for Rails. Run tests in the browser or headless with PhantomJS, Selenium WebDriver or Capybara Webkit.",
+        "NumDeCommits": "860"
+    },
+{
+        "name": "Selenium-Remote-Driver",
+        "url": "https://api.github.com/repos/gempesaw/Selenium-Remote-Driver",
+        "description": "Perl Bindings to the Selenium Webdriver server",
+        "NumDeCommits": "942"
+    },
+{
+        "name": "noseapp_selenium",
+        "url": "https://api.github.com/repos/noseapp/noseapp_selenium",
+        "description": "selenium extension for noseapp lib",
+        "NumDeCommits": "116"
+    },
+{
+        "name": "marcel",
+        "url": "https://api.github.com/repos/dancrew32/marcel",
+        "description": "The PHP 5.4 MVC with Shoes On: ActiveRecord, User/Session, Generators, SCSS, (Twitter Bootstrap) Integration, Workers, Cron Management, Image Manipulation, Caching, Git Management, Mail \u0026 Mail Parsing, OCR, Scraping, Selenium, Mustache, Markdown, Phone \u0026 ",
+        "NumDeCommits": "186"
+    },
+{
+        "name": "JomsocialAutomationTest",
+        "url": "https://api.github.com/repos/jomsocialTest/JomsocialAutomationTest",
+        "description": "Jomsocial Automation Test with Selenium",
+        "NumDeCommits": "912"
+    },
+{
+        "name": "acceptance-test-harness",
+        "url": "https://api.github.com/repos/jenkinsci/acceptance-test-harness",
+        "description": "Attempted port from selenium-tests to Java",
+        "NumDeCommits": "1490"
+    },
+{
+        "name": "chrome-extension-selenium-example",
+        "url": "https://api.github.com/repos/quitschibo/chrome-extension-selenium-example",
+        "description": "Example project for testing chrome extensions with selenium. Works fine with a saucelabs.com account.",
+        "NumDeCommits": "157"
+    },
+{
+        "name": "watirbook",
+        "url": "https://api.github.com/repos/watir/watirbook",
+        "description": "Web Application Testing in Ruby. With Selenium and friends.",
+        "NumDeCommits": "226"
+    },
+{
+        "name": "SunnyCare-Automated-Testing",
+        "url": "https://api.github.com/repos/drgroot/SunnyCare-Automated-Testing",
+        "description": "selenium testing stuff",
+        "NumDeCommits": "203"
+    },
+{
+        "name": "trunk_test",
+        "url": "https://api.github.com/repos/maple7sha/trunk_test",
+        "description": "Jenkins Selenium test suite on Trunk.tufts.edu",
+        "NumDeCommits": "210"
+    },
+{
+        "name": "SelBlocks",
+        "url": "https://api.github.com/repos/refactoror/SelBlocks",
+        "description": "SelBlocks extension for Selenium IDE",
+        "NumDeCommits": "142"
+    },
+{
+        "name": "spun",
+        "url": "https://api.github.com/repos/spunjs/spun",
+        "description": "Rapid Selenium Testing",
+        "NumDeCommits": "152"
+    },
+{
+        "name": "sandbox",
+        "url": "https://api.github.com/repos/sekogan/webdriverxx",
+        "description": "A C++ client library for Selenium Webdriver",
+        "NumDeCommits": "174"
+    },
+{
+        "name": "automator",
+        "url": "https://api.github.com/repos/triposo/automator",
+        "description": "Automates iTunes Connect and the Android Market using Selenium.",
+        "NumDeCommits": "102"
+    },
+{
+        "name": "testfield",
+        "url": "https://api.github.com/repos/hectord/testfield",
+        "description": "This project defines everything that is necessary to test a fork of OpenERP 6 with Lettuce and Selenium",
+        "NumDeCommits": "546"
+    },
+{
+        "name": "nemo",
+        "url": "https://api.github.com/repos/paypal/nemo",
+        "description": "Selenium-webdriver based automation in node.js",
+        "NumDeCommits": "317"
+    },
+{
+        "name": "KeyWordDrivenAutoTest",
+        "url": "https://api.github.com/repos/Airpy/KeyWordDrivenAutoTest",
+        "description": "This is a KeyWord Driven automation test demo.Used Selenium，java，junit and some others reference library.",
+        "NumDeCommits": "146"
+    },
+{
+        "name": "webdriverio",
+        "url": "https://api.github.com/repos/webdriverio/webdriverio",
+        "description": "Webdriver/Selenium 2.0 JavaScript bindings for Node.js",
+        "NumDeCommits": "1744"
+    },
+{
+        "name": "Bumblebee",
+        "url": "https://api.github.com/repos/Bumblebee/Bumblebee",
+        "description": "A layer on top of the Selenium browser automation library.",
+        "NumDeCommits": "244"
+    },
+{
+        "name": "mocktail",
+        "url": "https://api.github.com/repos/vashishthask/mocktail",
+        "description": "This project is to facilitate external dependencies while running regression test cases using selenium",
+        "NumDeCommits": "161"
+    },
+{
+        "name": "platform-testing",
+        "url": "https://api.github.com/repos/jpommer/platform-testing",
+        "description": "Selenium testing for VictorOps platform web frontend.",
+        "NumDeCommits": "114"
+    },
+{
+        "name": "selenium-rfc-client",
+        "url": "https://api.github.com/repos/bitmarte/selenium-rfc-client",
+        "description": "Selenium Run-From-Configuration Client: create your test plan into an XML file, execute, obtain screenshot and enjoy it!",
+        "NumDeCommits": "207"
+    },
+{
+        "name": "frameworkium-core",
+        "url": "https://api.github.com/repos/robertgates55/frameworkium-core",
+        "description": "Bootstrapping Selenium and Appium",
+        "NumDeCommits": "241"
+    },
+{
+        "name": "steward",
+        "url": "https://api.github.com/repos/OndraM/steward",
+        "description": "PHP libraries that makes Selenium WebDriver + PHPUnit functional testing easy and robust",
+        "NumDeCommits": "256"
+    },
+{
+        "name": "Selenium.Webdriver.Domify",
+        "url": "https://api.github.com/repos/yngvebn/Selenium.Webdriver.Domify",
+        "description": "Adds a layer on top of Selenium.Webdriver for easier access to the DOM",
+        "NumDeCommits": "147"
+    },
+{
+        "name": "Selenium2",
+        "url": "https://api.github.com/repos/KirillJacobson/Selenium2",
+        "description": "An auto-updated Selenium2 from google code subversion (hourly)",
+        "NumDeCommits": "302"
+    },
+{
+        "name": "se-interpreter",
+        "url": "https://api.github.com/repos/davidlinse/se-interpreter",
+        "description": "Interpreter for Selenium Builder JSON scripts based on node.js and wd.",
+        "NumDeCommits": "121"
+    },
+{
+        "name": "operadriver",
+        "url": "https://api.github.com/repos/operasoftware/operadriver",
+        "description": "OperaDriver is a vendor-supported WebDriver implementation developed by Opera and volunteers that enables programmatic automation of different Opera products. It is a part of the Selenium project.",
+        "NumDeCommits": "993"
+    },
+{
+        "name": "python-selenium",
+        "url": "https://api.github.com/repos/f3at/python-selenium",
+        "description": "mirror of http://selenium.googlecode.com/svn/trunk/py",
+        "NumDeCommits": "102"
+    },
+{
+        "name": "WebDriver-Tiny",
+        "url": "https://api.github.com/repos/cv-library/WebDriver-Tiny",
+        "description": "Selenium 2.0 bindings for Perl",
+        "NumDeCommits": "173"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/lowitty/selenium",
+        "description": "selenium web automation testing",
+        "NumDeCommits": "191"
+    },
+{
+        "name": "bionic-qa-selenium",
+        "url": "https://api.github.com/repos/meeroslaph/bionic-qa-selenium",
+        "description": "My project at Bionic University for Quality Assurance Selenium course.",
+        "NumDeCommits": "134"
+    },
+{
+        "name": "osf-ui-tests",
+        "url": "https://api.github.com/repos/CenterForOpenScience/osf-ui-tests",
+        "description": "Selenium-based UI tests for the Open Science Framework",
+        "NumDeCommits": "237"
+    },
+{
+        "name": "MinkSelenium2Driver",
+        "url": "https://api.github.com/repos/Behat/MinkSelenium2Driver",
+        "description": "Selenium2 (webdriver) driver for Mink framework",
+        "NumDeCommits": "165"
+    },
+{
+        "name": "ugly-blog",
+        "url": "https://api.github.com/repos/WarAngel-alk/ugly-blog",
+        "description": "Ugly personal blog (which I will not maintain) for learning Spring (MVC, Security, something else), Tiles, Hibernate, TestNG, Selenium, EhCache.",
+        "NumDeCommits": "355"
+    },
+{
+        "name": "passbolt_selenium",
+        "url": "https://api.github.com/repos/passbolt/passbolt_selenium",
+        "description": "Passbolt Selenium Tests",
+        "NumDeCommits": "232"
+    },
+{
+        "name": "django-functest",
+        "url": "https://api.github.com/repos/django-functest/django-functest",
+        "description": "Helpers for creating high-level functional tests in Django, with a unified API for WebTest and Selenium tests.",
+        "NumDeCommits": "173"
+    },
+{
+        "name": "easyium",
+        "url": "https://api.github.com/repos/KarlGong/easyium",
+        "description": "easyium is an easy-to-use wrapper for selenium\u0026appium and it can make you more focus on business not the element.",
+        "NumDeCommits": "109"
+    },
+{
+        "name": "rube",
+        "url": "https://api.github.com/repos/fedora-infra/rube",
+        "description": "Selenium tests for our web infrastructure",
+        "NumDeCommits": "157"
+    },
+{
+        "name": "brome",
+        "url": "https://api.github.com/repos/brome-hq/brome",
+        "description": "Framework For Selenium",
+        "NumDeCommits": "313"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/igeorge1982/selenium",
+        "description": "selenium automation tool",
+        "NumDeCommits": "115"
+    },
+{
+        "name": "FluentLenium",
+        "url": "https://api.github.com/repos/FluentLenium/FluentLenium",
+        "description": "FluentLenium makes the writing of acceptance tests  in a fluent way possible using the power of  css selectors. Build upon Selenium WebDriver.",
+        "NumDeCommits": "942"
+    },
+{
+        "name": "selenium-utils",
+        "url": "https://api.github.com/repos/pojosontheweb/selenium-utils",
+        "description": "selenium-utils",
+        "NumDeCommits": "333"
+    },
+{
+        "name": "SelBlocks",
+        "url": "https://api.github.com/repos/matthewkastor/SelBlocks",
+        "description": "SelBlocks extension for Selenium IDE",
+        "NumDeCommits": "114"
+    },
+{
+        "name": "webdriverio-server",
+        "url": "https://api.github.com/repos/pastorsj/webdriverio-server",
+        "description": "webdriverio-server - If you want a remote server to do selenium testing, this is a better way",
+        "NumDeCommits": "150"
+    },
+{
+        "name": "selenide",
+        "url": "https://api.github.com/repos/codeborne/selenide",
+        "description": "Addition for Selenium WebDriver to facilitate writing JUnit tests with Selenium",
+        "NumDeCommits": "1724"
+    },
+{
+        "name": "wd",
+        "url": "https://api.github.com/repos/admc/wd",
+        "description": "node.js webdriver/selenium 2 client",
+        "NumDeCommits": "1175"
+    },
+{
+        "name": "selendroid",
+        "url": "https://api.github.com/repos/selendroid/selendroid",
+        "description": "\"Selenium for Android\" (Test automate native or hybrid Android apps and the mobile web with Selendroid.) Join us on IRC #selendroid on freenode. Also confirm you have signed the CLA http://goo.gl/pAvxEI when making a Pull Request.",
+        "NumDeCommits": "736"
+    },
+{
+        "name": "SeleniumLibrary",
+        "url": "https://api.github.com/repos/robotframework/SeleniumLibrary",
+        "description": "Deprecated Selenium library for Robot Framework",
+        "NumDeCommits": "458"
+    },
+{
+        "name": "sauce_ruby",
+        "url": "https://api.github.com/repos/sauce-labs/sauce_ruby",
+        "description": "This is the Ruby client adapter for testing with Sauce Labs, a Selenium-based browser testing service (saucelabs.com).",
+        "NumDeCommits": "115"
+    },
+{
+        "name": "selenium-tinafw",
+        "url": "https://api.github.com/repos/alb-i986/selenium-tinafw",
+        "description": "A framework for writing maintainable poetry with Selenium WebDriver.",
+        "NumDeCommits": "335"
+    },
+{
+        "name": "sauce_ruby",
+        "url": "https://api.github.com/repos/jsboulanger/sauce_ruby",
+        "description": "Sauce OnDemand is a Selenium testing cloud service, developed by Sauce Labs Inc (saucelabs.com). This is the Ruby client adapter for Sauce OnDemand.",
+        "NumDeCommits": "177"
+    },
+{
+        "name": "lab-selenium-tests",
+        "url": "https://api.github.com/repos/concord-consortium/lab-selenium-tests",
+        "description": "Selenium tests of Lab Framework and Lab Interactives Site",
+        "NumDeCommits": "119"
+    },
+{
+        "name": "Selenium2",
+        "url": "https://api.github.com/repos/asynchrony/Selenium2",
+        "description": "An auto-updated read-only Selenium2 from google code subversion (hourly). Patches should be submitted via google code",
+        "NumDeCommits": "302"
+    },
+{
+        "name": "selendroid",
+        "url": "https://api.github.com/repos/appium/selendroid",
+        "description": "\"Selenium for Android\" (Test automate native or hybrid Android apps and the mobile web with Selendroid.) Join us on IRC #selendroid on freenode. Also confirm you have signed the CLA http://goo.gl/pAvxEI when making a Pull Request.",
+        "NumDeCommits": "186"
+    },
+{
+        "name": "cello",
+        "url": "https://api.github.com/repos/camiloribeiro/cello",
+        "description": "Framework for automated UI tests based on Selenium-Webdriver",
+        "NumDeCommits": "119"
+    },
+{
+        "name": "goat",
+        "url": "https://api.github.com/repos/necrophonic/goat",
+        "description": "Codename: GoAT is a Web Acceptance Testing framework using Go and Selenium",
+        "NumDeCommits": "172"
+    },
+{
+        "name": "SeleniumBase",
+        "url": "https://api.github.com/repos/seleniumbase/SeleniumBase",
+        "description": "SeleniumBase Automation Platform",
+        "NumDeCommits": "104"
+    },
+{
+        "name": "liveblog_tests",
+        "url": "https://api.github.com/repos/actionless/liveblog_tests",
+        "description": "selenium tests for liveblog",
+        "NumDeCommits": "195"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/paperlesspost/selenium",
+        "description": "Selenium mirror",
+        "NumDeCommits": "123"
+    },
+{
+        "name": "Test.Automation",
+        "url": "https://api.github.com/repos/ObjectivityBSS/Test.Automation",
+        "description": "Framework to automate tests using Selenium WebDriver",
+        "NumDeCommits": "513"
+    },
+{
+        "name": "webdriverextensions",
+        "url": "https://api.github.com/repos/webdriverextensions/webdriverextensions",
+        "description": "Make your WebDriver based Selenium tests more readable, reusability and maintainable by using WebDriver Extensions!",
+        "NumDeCommits": "388"
+    },
+{
+        "name": "seleniumwrapper",
+        "url": "https://api.github.com/repos/keitaoouchi/seleniumwrapper",
+        "description": "selenium webdriver wrapper to make manipulation easier.",
+        "NumDeCommits": "165"
+    },
+{
+        "name": "sst",
+        "url": "https://api.github.com/repos/DramaFever/sst",
+        "description": "Selenium Simple Test framework from launchpad",
+        "NumDeCommits": "160"
+    },
+{
+        "name": "ios-driver",
+        "url": "https://api.github.com/repos/ios-driver/ios-driver",
+        "description": "Selenium server to test native, hybrid and web apps on IOS. Join us on IRC #ios-driver on freenode",
+        "NumDeCommits": "1135"
+    },
+{
+        "name": "WebDriver",
+        "url": "https://api.github.com/repos/sayems/WebDriver",
+        "description": "Web browser automation testing using Selenium 2 (WebDriver) and Java",
+        "NumDeCommits": "410"
+    },
+{
+        "name": "contesto",
+        "url": "https://api.github.com/repos/2gis/contesto",
+        "description": "Framework for writing functional selenium-based tests",
+        "NumDeCommits": "238"
+    },
+{
+        "name": "Testy",
+        "url": "https://api.github.com/repos/sdl/Testy",
+        "description": "Automated Acceptance Testing: Selenium and Selenium WebDriver test framework for web applications (best suited for ExtJS and complex UI)",
+        "NumDeCommits": "1160"
+    },
+{
+        "name": "auxilia",
+        "url": "https://api.github.com/repos/psyglyphik/auxilia",
+        "description": "A helpdesk management solution built with Ruby on Rails 4 and tested with RSpec, Capybara, and Selenium.",
+        "NumDeCommits": "363"
+    },
+{
+        "name": "chef-selenium",
+        "url": "https://api.github.com/repos/dhoer/chef-selenium",
+        "description": "A chef cookbook to install and configure Selenium",
+        "NumDeCommits": "304"
+    },
+{
+        "name": "winphonedriver",
+        "url": "https://api.github.com/repos/2gis/winphonedriver",
+        "description": "Selenium Driver for automated testing of Windows Phone 8.1 Silverlight applications.",
+        "NumDeCommits": "188"
+    },
+{
+        "name": "JavaSeleniumSample",
+        "url": "https://api.github.com/repos/nhantran1509/JavaSeleniumSample",
+        "description": "This is a source code to practice with JavaSelenium",
+        "NumDeCommits": "157"
+    },
+{
+        "name": "QA-parallel-automation-",
+        "url": "https://api.github.com/repos/BioData/QA-parallel-automation-",
+        "description": "support parallel execution with TestNG \u0026 selenium",
+        "NumDeCommits": "314"
+    },
+{
+        "name": "fitnesse-selenium-slim",
+        "url": "https://api.github.com/repos/andreptb/fitnesse-selenium-slim",
+        "description": "FitNesse Selenium fixture in slim format",
+        "NumDeCommits": "133"
+    },
+{
+        "name": "SeleniumForOpenERP",
+        "url": "https://api.github.com/repos/martinhbramwell/SeleniumForOpenERP",
+        "description": "These are my Selenium scripts for automatically preparing a new company",
+        "NumDeCommits": "101"
+    },
+{
+        "name": "marketplace-tests",
+        "url": "https://api.github.com/repos/bobsilverberg/marketplace-tests",
+        "description": "Selenium Tests for Market Place",
+        "NumDeCommits": "213"
+    },
+{
+        "name": "www.seleniumhq.org",
+        "url": "https://api.github.com/repos/SeleniumHQ/www.seleniumhq.org",
+        "description": "Official user guide for Selenium - a browser automation tool.",
+        "NumDeCommits": "457"
+    },
+{
+        "name": "selenium-python",
+        "url": "https://api.github.com/repos/baijum/selenium-python",
+        "description": "Selenium Python Bindings Documentation",
+        "NumDeCommits": "116"
+    },
+{
+        "name": "Selenium-Setup",
+        "url": "https://api.github.com/repos/bogdananton/Selenium-Setup",
+        "description": "Start your own Selenium test server with Chrome, Firefox and Internet Explorer drivers.",
+        "NumDeCommits": "146"
+    },
+{
+        "name": "acceptance-test-harness",
+        "url": "https://api.github.com/repos/uhafner/acceptance-test-harness",
+        "description": "Attempted port from selenium-tests to Java",
+        "NumDeCommits": "282"
+    },
+{
+        "name": "selenium-assistant",
+        "url": "https://api.github.com/repos/GoogleChrome/selenium-assistant",
+        "description": "A node module that helps using browsers with selenium",
+        "NumDeCommits": "388"
+    },
+{
+        "name": "save_screenshot_test",
+        "url": "https://api.github.com/repos/Samael500/save_screenshot_test",
+        "description": "test save screenshot in selenium",
+        "NumDeCommits": "141"
+    },
+{
+        "name": "portal-scraper-api",
+        "url": "https://api.github.com/repos/coopdigital/portal-scraper-api",
+        "description": "API to scrape bills from online accounts. Django / Docker / python / celery / selenium / firefox (!)",
+        "NumDeCommits": "112"
+    },
+{
+        "name": "IgniteTests",
+        "url": "https://api.github.com/repos/himanshuvermaw2gi/IgniteTests",
+        "description": "Selenium Test Cases",
+        "NumDeCommits": "327"
+    },
+{
+        "name": "selendroid",
+        "url": "https://api.github.com/repos/lukeis/selendroid",
+        "description": "\"Selenium for Android Apps\" (Test automate native or hybrid Android apps with Selendroid.) Join us on IRC #selendroid on freenode",
+        "NumDeCommits": "178"
+    },
+{
+        "name": "calabash-driver",
+        "url": "https://api.github.com/repos/calabash-driver/calabash-driver",
+        "description": "Write your Calabash-Android end-to-end tests in Java and use the Selenium Grid for scaling and parallel testing. The documentation you find here:",
+        "NumDeCommits": "141"
+    },
+{
+        "name": "chemistrykit",
+        "url": "https://api.github.com/repos/animoto/chemistrykit",
+        "description": "Simple and opinionated web testing framework for Selenium WebDriver that follows convention over configuration and integrates with SauceLabs for cross-browser execution in the cloud.",
+        "NumDeCommits": "109"
+    },
+{
+        "name": "Selenium2",
+        "url": "https://api.github.com/repos/Selenium2/Selenium2",
+        "description": "An auto-updated read-only Selenium2 from google code subversion (hourly). Patches should be submitted via google code",
+        "NumDeCommits": "4255"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/pombredanne/selenium",
+        "description": "Unofficial selenium2 python bindings",
+        "NumDeCommits": "334"
+    },
+{
+        "name": "chemistrykit",
+        "url": "https://api.github.com/repos/arrgyle/chemistrykit",
+        "description": "Automation frame work for Selenium",
+        "NumDeCommits": "463"
+    },
+{
+        "name": "selenium-grid",
+        "url": "https://api.github.com/repos/bcotton/selenium-grid",
+        "description": "Selenium Grid is a tool that dramatically speeds up web testing by running multiple tests in parallel and on multiple machines",
+        "NumDeCommits": "102"
+    },
+{
+        "name": "SeleniumPlus-REGRESSION",
+        "url": "https://api.github.com/repos/SAFSDEV/SeleniumPlus-REGRESSION",
+        "description": "Comprehensive SeleniumPlus Runtime Regression (Examples)",
+        "NumDeCommits": "170"
+    },
+{
+        "name": "extentreports",
+        "url": "https://api.github.com/repos/relevantcodes/extentreports",
+        "description": "ExtentReports - HTML reporting library for Selenium WebDriver",
+        "NumDeCommits": "121"
+    },
+{
+        "name": "phpunit-selenium",
+        "url": "https://api.github.com/repos/giorgiosironi/phpunit-selenium",
+        "description": "Selenium RC integration for PHPUnit",
+        "NumDeCommits": "646"
+    },
+{
+        "name": "gga-selenium-framework",
+        "url": "https://api.github.com/repos/ggasoftware/gga-selenium-framework",
+        "description": "Automation testing using Selenium WebDriver and Java",
+        "NumDeCommits": "404"
+    },
+{
+        "name": "rabird.selenium",
+        "url": "https://api.github.com/repos/starofrainnight/rabird.selenium",
+        "description": "An extension library build on top of selenium",
+        "NumDeCommits": "139"
+    },
+{
+        "name": "python-webdriverwrapper",
+        "url": "https://api.github.com/repos/horejsek/python-webdriverwrapper",
+        "description": "Better interface for WebDriver (Selenium 2).",
+        "NumDeCommits": "196"
+    },
+{
+        "name": "se-builder",
+        "url": "https://api.github.com/repos/SeleniumBuilder/se-builder",
+        "description": "Selenium Builder Project",
+        "NumDeCommits": "508"
+    },
+{
+        "name": "se-builder",
+        "url": "https://api.github.com/repos/admc/se-builder",
+        "description": "Selenium Builder Project",
+        "NumDeCommits": "152"
+    },
+{
+        "name": "mini_autobot",
+        "url": "https://api.github.com/repos/rentpath/mini_autobot",
+        "description": "Web automation framework on minitest, selenium webdriver, and page objects.",
+        "NumDeCommits": "238"
+    },
+{
+        "name": "Xebium",
+        "url": "https://api.github.com/repos/msgeiger/Xebium",
+        "description": "Xebium provides Selenium (webdriver) bindings for FitNesse, with Selenium-IDE support",
+        "NumDeCommits": "198"
+    },
+{
+        "name": "Kuali-Sakai-Functional-Test-Automation-Framework",
+        "url": "https://api.github.com/repos/kcampos/Kuali-Sakai-Functional-Test-Automation-Framework",
+        "description": "Functional test automation framework (Selenium) for Kuali and Sakai open source products",
+        "NumDeCommits": "129"
+    },
+{
+        "name": "page-object",
+        "url": "https://api.github.com/repos/cheezy/page-object",
+        "description": "Gem to implement PageObject pattern in watir-webdriver and selenium-webdriver",
+        "NumDeCommits": "401"
+    },
+{
+        "name": "pytest-splinter",
+        "url": "https://api.github.com/repos/pytest-dev/pytest-splinter",
+        "description": "pytest spinter and selenium integration for anyone interested in browser interaction in tests",
+        "NumDeCommits": "132"
+    },
+{
+        "name": "shale",
+        "url": "https://api.github.com/repos/cardforcoin/shale",
+        "description": "A Clojure-backed replacement for Selenium hubs.",
+        "NumDeCommits": "346"
+    },
+{
+        "name": "webdriver-sync",
+        "url": "https://api.github.com/repos/jsdevel/webdriver-sync",
+        "description": "Synchronous testing with Selenium and node.js!",
+        "NumDeCommits": "332"
+    },
+{
+        "name": "docker-selenium",
+        "url": "https://api.github.com/repos/elgalu/docker-selenium",
+        "description": "Selenium in Docker solution with Chrome and Firefox and video recording support",
+        "NumDeCommits": "404"
+    },
+{
+        "name": "tor-browser-selenium",
+        "url": "https://api.github.com/repos/gunesacar/tor-browser-selenium",
+        "description": "Tor Browser automation with Selenium.",
+        "NumDeCommits": "106"
+    },
+{
+        "name": "selenium-grid",
+        "url": "https://api.github.com/repos/themouette/selenium-grid",
+        "description": "A runner for selenium tests",
+        "NumDeCommits": "106"
+    },
+{
+        "name": "Jelenium",
+        "url": "https://api.github.com/repos/emmm1/Jelenium",
+        "description": "Java and Selenium",
+        "NumDeCommits": "114"
+    },
+{
+        "name": "mfp-qa",
+        "url": "https://api.github.com/repos/HursevichAl/mfp-qa",
+        "description": "Selenium test scripts for myfitnesspal.com auto-testing",
+        "NumDeCommits": "288"
+    },
+{
+        "name": "FireRobot",
+        "url": "https://api.github.com/repos/joao-carloto/FireRobot",
+        "description": "Firefox extension for Robot Framework/Selenium.",
+        "NumDeCommits": "114"
+    },
+{
+        "name": "atata",
+        "url": "https://api.github.com/repos/atata-framework/atata",
+        "description": ".NET automated testing page object framework based on Selenium WebDriver",
+        "NumDeCommits": "177"
+    },
+{
+        "name": "selenium-client-factory",
+        "url": "https://api.github.com/repos/infradna/selenium-client-factory",
+        "description": "Factory to abstract away Selenium instantiation ",
+        "NumDeCommits": "110"
+    },
+{
+        "name": "selbot2",
+        "url": "https://api.github.com/repos/jarib/selbot2",
+        "description": "bot for #selenium on freenode",
+        "NumDeCommits": "123"
+    },
+{
+        "name": "SeleniumBasic",
+        "url": "https://api.github.com/repos/florentbr/SeleniumBasic",
+        "description": "A Selenium based browser automation framework for VB.Net, VBA and VBScript",
+        "NumDeCommits": "169"
+    },
+{
+        "name": "fiveby",
+        "url": "https://api.github.com/repos/dowjones/fiveby",
+        "description": "make selenium tests easier to setup, write, and execute",
+        "NumDeCommits": "251"
+    },
+{
+        "name": "appium",
+        "url": "https://api.github.com/repos/jlipps/appium",
+        "description": "Selenium for Apps.",
+        "NumDeCommits": "1435"
+    },
+{
+        "name": "Addon-Tests",
+        "url": "https://api.github.com/repos/davehunt/Addon-Tests",
+        "description": "Selenium Tests for addons.mozilla.com",
+        "NumDeCommits": "107"
+    },
+{
+        "name": "webdriverio",
+        "url": "https://api.github.com/repos/sbmaxx/webdriverio",
+        "description": "Webdriver/Selenium 2.0 JavaScript bindings for Node.js",
+        "NumDeCommits": "113"
+    },
+{
+        "name": "react-starter",
+        "url": "https://api.github.com/repos/ivanoats/react-starter",
+        "description": "Full-Stack ReactJS template with Karma / Mocha unit tests, WebdriverIO / Selenium Acceptance tests, Browserify, JSX, ExpressJS server and Mocha Server Tests",
+        "NumDeCommits": "205"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/OPUS4/selenium",
+        "description": "OPUS 4 Selenium tests.",
+        "NumDeCommits": "540"
+    },
+{
+        "name": "selenium-client",
+        "url": "https://api.github.com/repos/ph7/selenium-client",
+        "description": "Official Ruby client API for Selenium Remote Control (bare bone client driver)",
+        "NumDeCommits": "130"
+    },
+{
+        "name": "seleniumcapsules",
+        "url": "https://api.github.com/repos/yujunliang/seleniumcapsules",
+        "description": "Selenium Capsules - Encapsulating Selenium WebDriver",
+        "NumDeCommits": "224"
+    },
+{
+        "name": "webdriverio-selenium-harness",
+        "url": "https://api.github.com/repos/seanstrom/webdriverio-selenium-harness",
+        "description": "A WebdriverIO and Selenium Test Harness",
+        "NumDeCommits": "115"
+    },
+{
+        "name": "strider-sauce",
+        "url": "https://api.github.com/repos/Strider-CD/strider-sauce",
+        "description": "Sauce Labs extension for Strider - makes it very easy to run your Selenium tests in parallel in multiple browser/OS combinations on Sauce Labs cloud.",
+        "NumDeCommits": "164"
+    },
+{
+        "name": "selene",
+        "url": "https://api.github.com/repos/LiquidLabsGmbH/selene",
+        "description": "A selenium-webdriver wrapper with focus on developer experience",
+        "NumDeCommits": "150"
+    },
+{
+        "name": "macrolang-to-selenium-html",
+        "url": "https://api.github.com/repos/gonzalob/macrolang-to-selenium-html",
+        "description": "Generates Selenium IDE test cases from a custom macro language",
+        "NumDeCommits": "114"
+    },
+{
+        "name": "Cauli-parent",
+        "url": "https://api.github.com/repos/celeskyking/cauli-parent",
+        "description": "一个基于junit和selenium的测试框架，包含一些mock的控件..",
+        "NumDeCommits": "173"
+    },
+{
+        "name": "domkey",
+        "url": "https://api.github.com/repos/rubytester/domkey",
+        "description": "Domain Specifc Page Components for Selenium Watir Webdriver",
+        "NumDeCommits": "174"
+    },
+{
+        "name": "moz-grid-config",
+        "url": "https://api.github.com/repos/mozilla/moz-grid-config",
+        "description": "Mozilla\u0027s Selenium Grid configuration",
+        "NumDeCommits": "130"
+    },
+{
+        "name": "aludratest",
+        "url": "https://api.github.com/repos/falbrech-hsdg/aludratest",
+        "description": "Test automation framework providing seamles integration of selenium based web GUI tests, other content (XML, EDI, Edifact, flat file, csv/tsv) and protocols (file, ftp, sftp, scp, network share, JMS)",
+        "NumDeCommits": "237"
+    },
+{
+        "name": "Testingbot-Tunnel",
+        "url": "https://api.github.com/repos/testingbot/Testingbot-Tunnel",
+        "description": "Tunnel to run Cloud Selenium tests on your local computer",
+        "NumDeCommits": "129"
+    },
+{
+        "name": "2014_rl_web_selenium_demo",
+        "url": "https://api.github.com/repos/robert0714/2014_rl_web_selenium_demo",
+        "description": "2014年底之前所寫的selenium測試DEMO",
+        "NumDeCommits": "729"
+    },
+{
+        "name": "SeleniumExtensions",
+        "url": "https://api.github.com/repos/rcasady616/SeleniumExtensions",
+        "description": "SeleniumExtensions ",
+        "NumDeCommits": "102"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/temyers/selenium",
+        "description": "Fork of https://code.google.com/p/selenium",
+        "NumDeCommits": "521"
+    },
+{
+        "name": "selenium-webdriver-extensions",
+        "url": "https://api.github.com/repos/Softlr/selenium-webdriver-extensions",
+        "description": "Extensions for Selenium WebDriver including jQuery and Sizzle selector support.",
+        "NumDeCommits": "129"
+    },
+{
+        "name": "selenodium-grid",
+        "url": "https://api.github.com/repos/selenodium/selenodium-grid",
+        "description": "Selenium Hub/Grid reimplementation in NodeJS",
+        "NumDeCommits": "209"
+    },
+{
+        "name": "java-testng-selenium",
+        "url": "https://api.github.com/repos/jsdevel/java-testng-selenium",
+        "description": "Remove the TestNG Selenium boilerplate.",
+        "NumDeCommits": "110"
+    },
+{
+        "name": "selenium-iphone",
+        "url": "https://api.github.com/repos/quamotion/selenium-iphone",
+        "description": "Contains the server side of the Selenium iPhone driver, which was deprecated in Selenium.",
+        "NumDeCommits": "176"
+    },
+{
+        "name": "seletronium",
+        "url": "https://api.github.com/repos/Pithikos/seletronium",
+        "description": "Selenium got smart",
+        "NumDeCommits": "122"
+    },
+{
+        "name": "selenium_core",
+        "url": "https://api.github.com/repos/crazycabo/selenium_core",
+        "description": "This project can used as a template for creating a Selenium project using Java",
+        "NumDeCommits": "106"
+    },
+{
+        "name": "selenium_vagrant",
+        "url": "https://api.github.com/repos/sergueik/selenium_vagrant",
+        "description": "Vagrant and Chef resources for Selenium Firefox, Phantom JS, and Chrome ",
+        "NumDeCommits": "147"
+    },
+{
+        "name": "ztl",
+        "url": "https://api.github.com/repos/zkoss/ztl",
+        "description": "ZTL is an open source tool which can automatically test the ZK Framework with jUnit and Selenium frameworks. And it can now support vision test to test on ZK Framework. ",
+        "NumDeCommits": "136"
+    },
+{
+        "name": "selenium-htmltojava-maven-plugin",
+        "url": "https://api.github.com/repos/gonzalob/selenium-htmltojava-maven-plugin",
+        "description": "Generates jUnit tests from Selenium IDE scripts",
+        "NumDeCommits": "116"
+    },
+{
+        "name": "selenium-tests",
+        "url": "https://api.github.com/repos/webdetails/selenium-tests",
+        "description": "Selenium tests for CTools",
+        "NumDeCommits": "930"
+    },
+{
+        "name": "puppet-selenium",
+        "url": "https://api.github.com/repos/jhoblitt/puppet-selenium",
+        "description": "Manages Selenium Server 2 - Standalone and Grid",
+        "NumDeCommits": "224"
+    },
+{
+        "name": "unisubs-testing",
+        "url": "https://api.github.com/repos/pculture/unisubs-testing",
+        "description": "selenium-rc test suites for the Universal Subtitles project",
+        "NumDeCommits": "301"
+    },
+{
+        "name": "GX-Selenium-Framework",
+        "url": "https://api.github.com/repos/AlcyZ/GX-Selenium-Framework",
+        "description": "selenium framework",
+        "NumDeCommits": "150"
+    },
+{
+        "name": "Ignite",
+        "url": "https://api.github.com/repos/himanshuvermaw2gi/Ignite",
+        "description": "Selenium Test Cases",
+        "NumDeCommits": "651"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/klepikov/selenium",
+        "description": "A mirror of the Selenium source. Please log Issues in Google Code. Also confirm you have signed the CLA http://goo.gl/qC50R when making a Pull Request",
+        "NumDeCommits": "106"
+    },
+{
+        "name": "selenium-travis",
+        "url": "https://api.github.com/repos/jarib/selenium-travis",
+        "description": "Intermediate repo for running selenium-webdriver tests on Travis",
+        "NumDeCommits": "117"
+    },
+{
+        "name": "selenium-benchmark",
+        "url": "https://api.github.com/repos/tourdedave/selenium-benchmark",
+        "description": "A simple way to benchmark Selenium WebDriver performance across various browsers",
+        "NumDeCommits": "116"
+    },
+{
+        "name": "veilingbot",
+        "url": "https://api.github.com/repos/rikva/veilingbot",
+        "description": "Veilingrobot / auction robot based on Selenium",
+        "NumDeCommits": "142"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/qcadoo/selenium",
+        "description": "Selenium tests for Qcadoo MES",
+        "NumDeCommits": "623"
+    },
+{
+        "name": "simplelenium",
+        "url": "https://api.github.com/repos/dgageot/simplelenium",
+        "description": "Simple layer on top of Selenium and PhantomJs",
+        "NumDeCommits": "524"
+    },
+{
+        "name": "testcontainers-java",
+        "url": "https://api.github.com/repos/testcontainers/testcontainers-java",
+        "description": "TestContainers is a Java 8 library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+        "NumDeCommits": "572"
+    },
+{
+        "name": "selenese-runner-java",
+        "url": "https://api.github.com/repos/vmi/selenese-runner-java",
+        "description": "Selenium IDE native format interpreter.",
+        "NumDeCommits": "1054"
+    },
+{
+        "name": "Slack",
+        "url": "https://api.github.com/repos/Wykleph/Slack",
+        "description": "Slack is a micro-framework for scraping the web using selenium\u0027s python bindings and the peewee ORM.",
+        "NumDeCommits": "173"
+    },
+{
+        "name": "Eyes.Selenium.Ruby",
+        "url": "https://api.github.com/repos/applitools/Eyes.Selenium.Ruby",
+        "description": "Applitools Eyes Ruby SDK for Selenium WebDriver",
+        "NumDeCommits": "224"
+    },
+{
+        "name": "selenium_java",
+        "url": "https://api.github.com/repos/sergueik/selenium_java",
+        "description": "Collection of reusable Selenium patterns",
+        "NumDeCommits": "407"
+    },
+{
+        "name": "toolium",
+        "url": "https://api.github.com/repos/Telefonica/toolium",
+        "description": "Wrapper tool of Selenium and Appium libraries to test web and mobile applications in a single project",
+        "NumDeCommits": "734"
+    },
+{
+        "name": "djangostories",
+        "url": "https://api.github.com/repos/Braelan/djangostories",
+        "description": "This is a writing app tested with selenium.  It uses backbone.js and the Django REST framework.",
+        "NumDeCommits": "123"
+    },
+{
+        "name": "autotest",
+        "url": "https://api.github.com/repos/ThaddeusThacker/autotest",
+        "description": "Automation Selenium testing",
+        "NumDeCommits": "139"
+    },
+{
+        "name": "SeleniumJS",
+        "url": "https://api.github.com/repos/bajituka/SeleniumJS",
+        "description": "Selenium JS",
+        "NumDeCommits": "199"
+    },
+{
+        "name": "hs-webdriver",
+        "url": "https://api.github.com/repos/kallisti-dev/hs-webdriver",
+        "description": "A Haskell client for the Selenium WebDriver protocol.",
+        "NumDeCommits": "549"
+    },
+{
+        "name": "Notes",
+        "url": "https://api.github.com/repos/Jiff21/Notes",
+        "description": "selenium",
+        "NumDeCommits": "373"
+    },
+{
+        "name": "senbot",
+        "url": "https://api.github.com/repos/gfk-ba/senbot",
+        "description": "Cucumber / Selenium framework in Java",
+        "NumDeCommits": "164"
+    },
+{
+        "name": "swd-recorder",
+        "url": "https://api.github.com/repos/dzhariy/swd-recorder",
+        "description": "Selenium WebDriver Recorder (Page Objects)",
+        "NumDeCommits": "177"
+    },
+{
+        "name": "Addon-Tests",
+        "url": "https://api.github.com/repos/teodosia/Addon-Tests",
+        "description": "Selenium Tests for addons.mozilla.com",
+        "NumDeCommits": "189"
+    },
+{
+        "name": "py.saunter",
+        "url": "https://api.github.com/repos/Element-34/py.saunter",
+        "description": "sample framework for using selenium with python and page objects",
+        "NumDeCommits": "175"
+    },
+{
+        "name": "robotframework-selenium2library-java",
+        "url": "https://api.github.com/repos/MarkusBernhardt/robotframework-selenium2library-java",
+        "description": "Java port of the Selenium 2 (WebDriver) Python library for Robot Framework",
+        "NumDeCommits": "220"
+    },
+{
+        "name": "appium",
+        "url": "https://api.github.com/repos/sourishkrout/appium",
+        "description": "Selenium for Apps.",
+        "NumDeCommits": "103"
+    },
+{
+        "name": "selenese4j-maven-plugin",
+        "url": "https://api.github.com/repos/RaphC/selenese4j-maven-plugin",
+        "description": "the plugin selene4j-maven-plugin provides a way to convert customized html selenium scenario to JUnit Test classes. ",
+        "NumDeCommits": "138"
+    },
+{
+        "name": "swd-recorder",
+        "url": "https://api.github.com/repos/dzharii/swd-recorder",
+        "description": "Selenium WebDriver Page Recorder (Page Objects)",
+        "NumDeCommits": "129"
+    },
+{
+        "name": "relenium",
+        "url": "https://api.github.com/repos/LluisRamon/relenium",
+        "description": "Easy and powerful web scraping with Selenium",
+        "NumDeCommits": "125"
+    },
+{
+        "name": "mediawiki-selenium",
+        "url": "https://api.github.com/repos/wikimedia/mediawiki-selenium",
+        "description": "Github mirror of \"mediawiki/selenium\" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing",
+        "NumDeCommits": "339"
+    },
+{
+        "name": "wd",
+        "url": "https://api.github.com/repos/sebv/wd",
+        "description": "A node.js client for webdriver/selenium 2.",
+        "NumDeCommits": "161"
+    },
+{
+        "name": "SeleniumProject",
+        "url": "https://api.github.com/repos/skaro87/SeleniumProject",
+        "description": "JU14 Selenium Test",
+        "NumDeCommits": "380"
+    },
+{
+        "name": "rainbowdriver-server",
+        "url": "https://api.github.com/repos/rainbowdriver/rainbowdriver-server",
+        "description": "Selenium driver for WinJS Metro apps via JsonWireProtocol.",
+        "NumDeCommits": "104"
+    },
+{
+        "name": "SelBlocksGlobal",
+        "url": "https://api.github.com/repos/SeLite/SelBlocksGlobal",
+        "description": "SelBlocks extension for Selenium IDE",
+        "NumDeCommits": "132"
+    },
+{
+        "name": "appium-dotnet-driver",
+        "url": "https://api.github.com/repos/appium/appium-dotnet-driver",
+        "description": "Extension to the  official Selenium dotnet webdriver ",
+        "NumDeCommits": "278"
+    },
+{
+        "name": "SeleniumShell",
+        "url": "https://api.github.com/repos/herrwalter/SeleniumShell",
+        "description": "Small framework on Selenium 2 with php",
+        "NumDeCommits": "123"
+    },
+{
+        "name": "scenarioo-selenium-demo",
+        "url": "https://api.github.com/repos/scenarioo/scenarioo-selenium-demo",
+        "description": "Example and blueprint of a Selenium-Webtesting Architecture with Scenarioo integrated (the example tests an example application: demo-my-tiny-todo)",
+        "NumDeCommits": "132"
+    },
+{
+        "name": "selenium-docs",
+        "url": "https://api.github.com/repos/SeleniumHQ/docs",
+        "description": "Project to rewrite the Selenium documentation.",
+        "NumDeCommits": "157"
+    },
+{
+        "name": "regtesting",
+        "url": "https://api.github.com/repos/hotelde/regtesting",
+        "description": "A C# powered uitestserver and testportal for running and managing distributed tests with selenium.",
+        "NumDeCommits": "108"
+    },
+{
+        "name": "WWW-WebKit",
+        "url": "https://api.github.com/repos/niner/WWW-WebKit",
+        "description": "Gtk3::WebKit based Selenium replacement",
+        "NumDeCommits": "154"
+    },
+{
+        "name": "smart-ui-framework",
+        "url": "https://api.github.com/repos/lwfwind/smart-ui-framework",
+        "description": "smart ui automation framework to support web and moblie automaton based on selenium and appium",
+        "NumDeCommits": "157"
+    },
+{
+        "name": "Hotdog",
+        "url": "https://api.github.com/repos/Orasi/Hotdog",
+        "description": "Appium/Selenium testing framework deriving from unittest",
+        "NumDeCommits": "166"
+    },
+{
+        "name": "py.saunter",
+        "url": "https://api.github.com/repos/santiycr/py.saunter",
+        "description": "sample framework for using selenium with python and page objects",
+        "NumDeCommits": "152"
+    },
+{
+        "name": "osf-ui-tests",
+        "url": "https://api.github.com/repos/chennan47/osf-ui-tests",
+        "description": "Selenium-based UI tests for the Open Science Framework",
+        "NumDeCommits": "139"
+    },
+{
+        "name": "shale",
+        "url": "https://api.github.com/repos/mhluongo/shale",
+        "description": "A Clojure-backed replacement for Selenium hubs.",
+        "NumDeCommits": "116"
+    },
+{
+        "name": "sauce-connect-launcher",
+        "url": "https://api.github.com/repos/bermi/sauce-connect-launcher",
+        "description": "Downloads and launches an instance of Sauce Connect Selenium Proxy https://saucelabs.com/docs/sauce-connect",
+        "NumDeCommits": "168"
+    },
+{
+        "name": "Selenium2",
+        "url": "https://api.github.com/repos/jcayzac/Selenium2",
+        "description": "An auto-updated read-only Selenium2 from google code subversion (hourly). Patches should be submitted via google code",
+        "NumDeCommits": "137"
+    },
+{
+        "name": "aludratest",
+        "url": "https://api.github.com/repos/AludraTest/aludratest",
+        "description": "Test automation framework providing seamless integration of selenium based web GUI tests, other content (XML, EDI, Edifact, flat file, csv/tsv) and protocols (file, ftp, sftp, scp, network share, JMS)",
+        "NumDeCommits": "354"
+    },
+{
+        "name": "source",
+        "url": "https://api.github.com/repos/selenium-webdriver-in-practice/source",
+        "description": "Source code for Selenium WebDriver In Practice",
+        "NumDeCommits": "713"
+    },
+{
+        "name": "Socorro-Tests",
+        "url": "https://api.github.com/repos/ahkeno/Socorro-Tests",
+        "description": "Selenium Tests for the Socorro ",
+        "NumDeCommits": "119"
+    },
+{
+        "name": "nightwatch",
+        "url": "https://api.github.com/repos/nightwatchjs/nightwatch",
+        "description": "Automated testing and continous integration framework based on node.js and selenium webdriver",
+        "NumDeCommits": "1003"
+    },
+{
+        "name": "vazhno-tests-b2b",
+        "url": "https://api.github.com/repos/efpato/vazhno-tests-b2b",
+        "description": "Selenium tests for vazhno-b2b",
+        "NumDeCommits": "119"
+    },
+{
+        "name": "holmium.core",
+        "url": "https://api.github.com/repos/alisaifee/holmium.core",
+        "description": "Page objects \u0026 Utilities for writing selenium test cases.",
+        "NumDeCommits": "365"
+    },
+{
+        "name": "vazhno",
+        "url": "https://api.github.com/repos/efpato/vazhno",
+        "description": "Selenium tests for vazhno",
+        "NumDeCommits": "242"
+    },
+{
+        "name": "selenium-tests",
+        "url": "https://api.github.com/repos/jenkinsci/selenium-tests",
+        "description": "Selenium Tests for the Jenkins CI Server",
+        "NumDeCommits": "370"
+    },
+{
+        "name": "sauce_ruby",
+        "url": "https://api.github.com/repos/DylanLacey/sauce_ruby",
+        "description": "Sauce OnDemand is a Selenium testing cloud service, developed by Sauce Labs Inc (saucelabs.com). This is the Ruby client adapter for Sauce OnDemand.",
+        "NumDeCommits": "250"
+    },
+{
+        "name": "PowerPrez",
+        "url": "https://api.github.com/repos/welcloud-io/PowerPrez",
+        "description": "selenium",
+        "NumDeCommits": "510"
+    },
+{
+        "name": "webdriver-manager",
+        "url": "https://api.github.com/repos/peridot-php/webdriver-manager",
+        "description": "Standalone library and command line tool for managing Selenium WebDriver",
+        "NumDeCommits": "108"
+    },
+{
+        "name": "selenium-pom",
+        "url": "https://api.github.com/repos/sponte/selenium-pom",
+        "description": "Selenium page object model",
+        "NumDeCommits": "142"
+    },
+{
+        "name": "webdriverio",
+        "url": "https://api.github.com/repos/georgecrawford/webdriverio",
+        "description": "Webdriver/Selenium 2.0 JavaScript bindings for Node.js",
+        "NumDeCommits": "118"
+    },
+{
+        "name": "darcy-webdriver",
+        "url": "https://api.github.com/repos/darcy-framework/darcy-webdriver",
+        "description": "An implementation of darcy-web that uses Selenium WebDriver as the automation library backend.",
+        "NumDeCommits": "260"
+    },
+{
+        "name": "clj-webdriver",
+        "url": "https://api.github.com/repos/semperos/clj-webdriver",
+        "description": "Clojure API for Selenium-WebDriver",
+        "NumDeCommits": "559"
+    },
+{
+        "name": "irc-logs",
+        "url": "https://api.github.com/repos/SeleniumHQ/irc-logs",
+        "description": "logs from #selenium on irc.freenode.net",
+        "NumDeCommits": "127343"
+    },
+{
+        "name": "funcunit",
+        "url": "https://api.github.com/repos/NEO7EVEN/funcunit",
+        "description": "A functional test suite based of qUnit, Selenium and jQuery",
+        "NumDeCommits": "156"
+    },
+{
+        "name": "hello-rajesh",
+        "url": "https://api.github.com/repos/RajeshPundla/hello-rajesh",
+        "description": "selenium project",
+        "NumDeCommits": "152"
+    },
+{
+        "name": "moz-grid-config",
+        "url": "https://api.github.com/repos/jxiaodev/moz-grid-config",
+        "description": "Mozilla\u0027s Selenium Grid configuration",
+        "NumDeCommits": "148"
+    },
+{
+        "name": "pdfngreport",
+        "url": "https://api.github.com/repos/uttesh/pdfngreport",
+        "description": "This is the pdf report plugin library written for testng/selenium, this listener will generate the pdf report on testcases run, its very simple to configure no need to write any code.",
+        "NumDeCommits": "159"
+    },
+{
+        "name": "node-red-contrib-selenium-webdriver",
+        "url": "https://api.github.com/repos/cuongquay/node-red-contrib-selenium-webdriver",
+        "description": "The Node-RED selenium webdriver node which allow to create selenium test flow by visual IDE tool",
+        "NumDeCommits": "127"
+    },
+{
+        "name": "leadfoot",
+        "url": "https://api.github.com/repos/theintern/leadfoot",
+        "description": "A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API.",
+        "NumDeCommits": "278"
+    },
+{
+        "name": "aloe_webdriver",
+        "url": "https://api.github.com/repos/aloetesting/aloe_webdriver",
+        "description": "Behavior Driven Development using Cucumber for Python - Selenium integration",
+        "NumDeCommits": "121"
+    },
+{
+        "name": "adf-selenium",
+        "url": "https://api.github.com/repos/wvanderdeijl/adf-selenium",
+        "description": "Example of using Selenium for automated UI testing of an Oracle ADF application",
+        "NumDeCommits": "216"
+    },
+{
+        "name": "django-sane-testing",
+        "url": "https://api.github.com/repos/pombredanne/django-sane-testing",
+        "description": "Django integration with nose, Selenium and more",
+        "NumDeCommits": "158"
+    },
+{
+        "name": "robotium",
+        "url": "https://api.github.com/repos/splatte/robotium",
+        "description": "Like Selenium, but for Android",
+        "NumDeCommits": "327"
+    },
+{
+        "name": "Hypertest",
+        "url": "https://api.github.com/repos/chandramouleswaran/Hypertest",
+        "description": "A simple visual scripting framework inspired from QALiber that uses Selenium to create/execute web test scripts.",
+        "NumDeCommits": "115"
+    },
+{
+        "name": "automation_xss_tc",
+        "url": "https://api.github.com/repos/nghinv/automation_xss_tc",
+        "description": "automate xss tc with selenium",
+        "NumDeCommits": "234"
+    },
+{
+        "name": "webdriverjs",
+        "url": "https://api.github.com/repos/christian-bromann/webdriverjs",
+        "description": "Webdriver/selenium 2.0 javascript bindings for nodejs",
+        "NumDeCommits": "195"
+    },
+{
+        "name": "react-starter",
+        "url": "https://api.github.com/repos/UWFosterIT/react-starter",
+        "description": "Full-Stack ReactJS template with Karma / Mocha unit tests, WebdriverIO / Selenium Acceptance tests, Browserify, JSX, ExpressJS server and Mocha Server Tests",
+        "NumDeCommits": "129"
+    },
+{
+        "name": "a0-webdrone-ruby",
+        "url": "https://api.github.com/repos/a0/a0-webdrone-ruby",
+        "description": "A simple selenium webdriver wrapper, ruby version.",
+        "NumDeCommits": "161"
+    },
+{
+        "name": "Addon-Tests",
+        "url": "https://api.github.com/repos/Marlena/Addon-Tests",
+        "description": "Selenium Tests for addons.mozilla.com",
+        "NumDeCommits": "249"
+    },
+{
+        "name": "sauce_ruby",
+        "url": "https://api.github.com/repos/saucelabs/sauce_ruby",
+        "description": "This is the Ruby client adapter for testing with Sauce Labs, a Selenium-based browser testing service (saucelabs.com).",
+        "NumDeCommits": "305"
+    },
+{
+        "name": "AutomationFramework",
+        "url": "https://api.github.com/repos/minhhoangvn/AutomationFramework",
+        "description": "Automation Framework with specflow+nunit+appium+selenium in .Net",
+        "NumDeCommits": "205"
+    },
+{
+        "name": "docker-selenium",
+        "url": "https://api.github.com/repos/SeleniumHQ/docker-selenium",
+        "description": "Docker images for Selenium Standalone Server",
+        "NumDeCommits": "150"
+    },
+{
+        "name": "xp-ui-testing",
+        "url": "https://api.github.com/repos/enonic/xp-ui-testing",
+        "description": "Selenium tests for testing Enonic XP UI elements",
+        "NumDeCommits": "640"
+    },
+{
+        "name": "tor-browser-crawler",
+        "url": "https://api.github.com/repos/webfp/tor-browser-crawler",
+        "description": "A crawler based on Tor Browser and Selenium",
+        "NumDeCommits": "221"
+    },
+{
+        "name": "selenium-tests",
+        "url": "https://api.github.com/repos/vjuranek/selenium-tests",
+        "description": "Selenium Tests for the Jenkins CI Server",
+        "NumDeCommits": "156"
+    },
+{
+        "name": "robotframework-pageobjects",
+        "url": "https://api.github.com/repos/ncbi/robotframework-pageobjects",
+        "description": "Implementation of the Page Object pattern with Robot Framework and selenium. Also facilitites page object pattern independent of Robot Framework",
+        "NumDeCommits": "364"
+    },
+{
+        "name": "tor-browser-selenium",
+        "url": "https://api.github.com/repos/webfp/tor-browser-selenium",
+        "description": "Tor Browser automation with Selenium.",
+        "NumDeCommits": "146"
+    },
+{
+        "name": "acceptance-test-harness",
+        "url": "https://api.github.com/repos/abayer/acceptance-test-harness",
+        "description": "Attempted port from selenium-tests to Java",
+        "NumDeCommits": "128"
+    },
+{
+        "name": "Python-Test-Driven-Development-Demos",
+        "url": "https://api.github.com/repos/BrianSipple/Python-Test-Driven-Development-Demos",
+        "description": "Python Test-Driven Development Demos Using Django, Selenium and jQuery",
+        "NumDeCommits": "332"
+    },
+{
+        "name": "selenium-video-node",
+        "url": "https://api.github.com/repos/aimmac23/selenium-video-node",
+        "description": "Code to add video recording capability to Selenium Nodes",
+        "NumDeCommits": "205"
+    },
+{
+        "name": "MAXSelenium",
+        "url": "https://api.github.com/repos/BarloworldTransport/MAXSelenium",
+        "description": "Barloworld MAX Selenium Automation Scripts",
+        "NumDeCommits": "201"
+    },
+{
+        "name": "Selenium",
+        "url": "https://api.github.com/repos/Depurador/Selenium",
+        "description": "Aquí están los scripts de Selenium",
+        "NumDeCommits": "101"
+    },
+{
+        "name": "selenium-webDriver-practical-guide",
+        "url": "https://api.github.com/repos/cosmic-cowboy/selenium-webDriver-practical-guide",
+        "description": " 実践 Selenium WebDriverの学習用",
+        "NumDeCommits": "174"
+    },
+{
+        "name": "jBrowserDriver",
+        "url": "https://api.github.com/repos/MachinePublishers/jBrowserDriver",
+        "description": "A programmable, embedded web browser driver compatible with the Selenium WebDriver spec -- fast, headless, WebKit-based, 100% pure Java, and no browser dependencies",
+        "NumDeCommits": "820"
+    },
+{
+        "name": "selenium-webdriver-extensions",
+        "url": "https://api.github.com/repos/RaYell/selenium-webdriver-extensions",
+        "description": "Extensions for Selenium WebDriver including jQuery and Sizzle selector support.",
+        "NumDeCommits": "1132"
+    },
+{
+        "name": "selenium-standalone-server-plugin",
+        "url": "https://api.github.com/repos/Ardesco/selenium-standalone-server-plugin",
+        "description": "A Maven plugin that will download the WebDriver stand alone server executables for use in your mavenised Selenium project.",
+        "NumDeCommits": "268"
+    },
+{
+        "name": "selenium_on_pgb_new",
+        "url": "https://api.github.com/repos/Hanweiwei123/selenium_on_pgb_new",
+        "description": "selenium_on_pgb_new",
+        "NumDeCommits": "225"
+    },
+{
+        "name": "plone.app.robotframework",
+        "url": "https://api.github.com/repos/plone/plone.app.robotframework",
+        "description": "Provides Robot Framework compatible resources and tools for writing functional Selenium tests (including acceptance tests) for Plone CMS and its add-ons.",
+        "NumDeCommits": "399"
+    },
+{
+        "name": "ios-driver",
+        "url": "https://api.github.com/repos/freynaud/ios-driver",
+        "description": "Selenium server to test native, hybrid and web apps on IOS. Join us on IRC #ios-driver on freenode",
+        "NumDeCommits": "400"
+    },
+{
+        "name": "nwd",
+        "url": "https://api.github.com/repos/2do2go/nwd",
+        "description": "pure node.js implementation of Selenium WebDriver Wire Protocol",
+        "NumDeCommits": "146"
+    },
+{
+        "name": "Selenium-Grid-Extras",
+        "url": "https://api.github.com/repos/groupon/Selenium-Grid-Extras",
+        "description": "Simplify the managment of the Selenium Grid Nodes and stabilize said nodes by cleaning up the test environment after the build has been completed",
+        "NumDeCommits": "757"
+    },
+{
+        "name": "selenium232-71",
+        "url": "https://api.github.com/repos/jahia-qa/selenium232-71",
+        "description": "Repo for selenium 232 for Jahia 71 version",
+        "NumDeCommits": "354"
+    },
+{
+        "name": "marketplace-tests",
+        "url": "https://api.github.com/repos/AndreiH/marketplace-tests",
+        "description": "Selenium Tests for Market Place",
+        "NumDeCommits": "429"
+    },
+{
+        "name": "shishito",
+        "url": "https://api.github.com/repos/salsita/shishito",
+        "description": "Python module for selenium webdriver test execution",
+        "NumDeCommits": "138"
+    },
+{
+        "name": "seleniumRobot",
+        "url": "https://api.github.com/repos/bhecquet/seleniumRobot",
+        "description": "SeleniumRobot is a test framework based on Selenium webdriver + Appium + Cucumber",
+        "NumDeCommits": "134"
+    },
+{
+        "name": "MLH-Selenium",
+        "url": "https://api.github.com/repos/SelAdv-G3-Minh-Trinh/MLH-Selenium",
+        "description": "Selenium Advance",
+        "NumDeCommits": "107"
+    },
+{
+        "name": "Selenol",
+        "url": "https://api.github.com/repos/pbakshy/Selenol",
+        "description": ".NET library for web-application testing based on the page object pattern and Selenium WebDriver",
+        "NumDeCommits": "150"
+    },
+{
+        "name": "sst",
+        "url": "https://api.github.com/repos/Gagnavarslan/sst",
+        "description": "Fork of lp:selenium-simple-test ( SST - Web Test Framework )",
+        "NumDeCommits": "1285"
+    },
+{
+        "name": "mineraloil-selenium",
+        "url": "https://api.github.com/repos/lithiumtech/mineraloil-selenium",
+        "description": "Selenium webdriver wrapper for mineraloil",
+        "NumDeCommits": "158"
+    },
+{
+        "name": "Socorro-Tests",
+        "url": "https://api.github.com/repos/m8ttyB/Socorro-Tests",
+        "description": "Selenium Tests for the Socorro ",
+        "NumDeCommits": "169"
+    },
+{
+        "name": "Socorro-Tests",
+        "url": "https://api.github.com/repos/mozilla/Socorro-Tests",
+        "description": "Selenium Tests for the Socorro ",
+        "NumDeCommits": "357"
+    },
+{
+        "name": "selenium-on-rails",
+        "url": "https://api.github.com/repos/paytonrules/selenium-on-rails",
+        "description": "The \"official\" Selenium On Rails repository, synced with OpenQA.",
+        "NumDeCommits": "102"
+    },
+{
+        "name": "testonaut",
+        "url": "https://api.github.com/repos/mafflerbach/testonaut",
+        "description": "Testonaut is a simple wiki, which you can running selenium test on every selenium node in your infrastructure.",
+        "NumDeCommits": "247"
+    },
+{
+        "name": "selenium_shots",
+        "url": "https://api.github.com/repos/kylejginavan/selenium_shots",
+        "description": "Selenium Shots",
+        "NumDeCommits": "102"
+    },
+{
+        "name": "funcunit",
+        "url": "https://api.github.com/repos/bitovi/funcunit",
+        "description": "A functional test suite based of qUnit, Selenium and jQuery",
+        "NumDeCommits": "162"
+    },
+{
+        "name": "Atata",
+        "url": "https://api.github.com/repos/YevgeniyShunevych/Atata",
+        "description": ".NET automated testing page object framework based on Selenium WebDriver",
+        "NumDeCommits": "319"
+    },
+{
+        "name": "Winium.StoreApps",
+        "url": "https://api.github.com/repos/2gis/Winium.StoreApps",
+        "description": "Winium.StoreApps is Selenium Remote WebDriver implementation for automated testing of Windows Store apps, tested on emulators (currently only Windows Phone apps are supported).",
+        "NumDeCommits": "254"
+    },
+{
+        "name": "crittercism",
+        "url": "https://api.github.com/repos/farooquesayed/crittercism",
+        "description": "GUI testing framework using selenium + python",
+        "NumDeCommits": "122"
+    },
+{
+        "name": "Steed",
+        "url": "https://api.github.com/repos/wanglin1985/Steed",
+        "description": "Steed is a simple \u0026 High-efficiency Automation Framework which was implemented with Python \u0026 Selenium.",
+        "NumDeCommits": "259"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/isaksky/selenium",
+        "description": "Selenium fork - persistent profile (cookies, etc) support for firefox webdriver",
+        "NumDeCommits": "2476"
+    },
+{
+        "name": "selenium-plugin",
+        "url": "https://api.github.com/repos/jenkinsci/selenium-plugin",
+        "description": "Jenkins selenium plugin",
+        "NumDeCommits": "188"
+    },
+{
+        "name": "wd",
+        "url": "https://api.github.com/repos/aef-/wd",
+        "description": "node.js webdriver/selenium 2 client",
+        "NumDeCommits": "108"
+    },
+{
+        "name": "munoz_features",
+        "url": "https://api.github.com/repos/cbrenner04/munoz_features",
+        "description": "Selenium Features for Muñoz app",
+        "NumDeCommits": "155"
+    },
+{
+        "name": "se34euca",
+        "url": "https://api.github.com/repos/aliceh/se34euca",
+        "description": "Eucalyptus User Console Test Framework Based on Selenium",
+        "NumDeCommits": "399"
+    },
+{
+        "name": "Selenium-Remote-Driver",
+        "url": "https://api.github.com/repos/aivaturi/Selenium-Remote-Driver",
+        "description": "Perl Bindings for Selenium 2.0 Remote WebDriver Server",
+        "NumDeCommits": "211"
+    },
+{
+        "name": "Android",
+        "url": "https://api.github.com/repos/sayems/Android",
+        "description": "Android Browser Testing with Selenium",
+        "NumDeCommits": "123"
+    },
+{
+        "name": "manchester_traffic_offences_tests",
+        "url": "https://api.github.com/repos/ministryofjustice/manchester_traffic_offences_tests",
+        "description": "Integration test suite for the makeaplea application (selenium, burp suite, zed attack proxy, locust IO, wave toolbar)",
+        "NumDeCommits": "310"
+    },
+{
+        "name": "seleniumTests",
+        "url": "https://api.github.com/repos/codebendercc/seleniumTests",
+        "description": "Selenium tests for the codebender website",
+        "NumDeCommits": "511"
+    },
+{
+        "name": "cspace-cucumber",
+        "url": "https://api.github.com/repos/collectionspace/cspace-cucumber",
+        "description": "Integration tests for CollectionSpace using cucumber-jvm, selenium, and jUnit",
+        "NumDeCommits": "261"
+    },
+{
+        "name": "selenium_wrapper",
+        "url": "https://api.github.com/repos/brhoades/selenium_wrapper",
+        "description": "Selenium wrapper designed to optimize selenium for load testing a website.",
+        "NumDeCommits": "360"
+    },
+{
+        "name": "wem-ui-testing",
+        "url": "https://api.github.com/repos/enonic/xp-ui-testing",
+        "description": "Selenium tests for testing Enonic XP UI elements",
+        "NumDeCommits": "803"
+    },
+{
+        "name": "SeleniumBase",
+        "url": "https://api.github.com/repos/mdmintz/SeleniumBase",
+        "description": "SeleniumBase Automation Framework",
+        "NumDeCommits": "862"
+    },
+{
+        "name": "rpTime-Selenium",
+        "url": "https://api.github.com/repos/EvilOverlordX/rpTime-Selenium",
+        "description": "Selenium front-end tests for rpTime project",
+        "NumDeCommits": "229"
+    },
+{
+        "name": "powershell_selenium",
+        "url": "https://api.github.com/repos/sergueik/powershell_selenium",
+        "description": "Split selenium part of powershell_ui_samples git repository",
+        "NumDeCommits": "576"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/tebeka/selenium",
+        "description": "Selenium/Webdriver client for Go",
+        "NumDeCommits": "141"
+    },
+{
+        "name": "Addon-Tests",
+        "url": "https://api.github.com/repos/AlinT/Addon-Tests",
+        "description": "Selenium Tests for addons.mozilla.com",
+        "NumDeCommits": "163"
+    },
+{
+        "name": "SELENIUM_INTEGRATION_TEST",
+        "url": "https://api.github.com/repos/SleepingTalent/SELENIUM_INTEGRATION_TEST",
+        "description": "Selenium Integration Test Examples",
+        "NumDeCommits": "128"
+    },
+{
+        "name": "Addon-Tests",
+        "url": "https://api.github.com/repos/bebef1987/Addon-Tests",
+        "description": "Selenium Tests for addons.mozilla.com",
+        "NumDeCommits": "473"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/HtmlUnit/selenium",
+        "description": "A mirror of the Selenium source.",
+        "NumDeCommits": "118"
+    },
+{
+        "name": "PaCuSe",
+        "url": "https://api.github.com/repos/PazsitZ/PaCuSe",
+        "description": "Pazsit Cucumber Selenium test framework",
+        "NumDeCommits": "149"
+    },
+{
+        "name": "docs",
+        "url": "https://api.github.com/repos/SeleniumHQ/docs",
+        "description": "Project to rewrite the Selenium documentation.",
+        "NumDeCommits": "132"
+    },
+{
+        "name": "webdrivermanager",
+        "url": "https://api.github.com/repos/bonigarcia/webdrivermanager",
+        "description": "Automatic Selenium Webdriver binaries management in runtime for Java",
+        "NumDeCommits": "201"
+    },
+{
+        "name": "play-selenide",
+        "url": "https://api.github.com/repos/codeborne/play-selenide",
+        "description": "Play framework integration with Selenide (based on Selenium Web Driver) to be able to write UI tests for Play apps in plain Java instead of html files",
+        "NumDeCommits": "104"
+    },
+{
+        "name": "Selenium2",
+        "url": "https://api.github.com/repos/j0hnsmith/Selenium2",
+        "description": "An auto-updated read-only Selenium2 from google code subversion (hourly). Patches should be submitted via google code",
+        "NumDeCommits": "302"
+    },
+{
+        "name": "php_webdriver",
+        "url": "https://api.github.com/repos/datasift/php_webdriver",
+        "description": "PEAR Package of Selenium 2 webdriver for PHP",
+        "NumDeCommits": "107"
+    },
+{
+        "name": "stresser",
+        "url": "https://api.github.com/repos/rambo/stresser",
+        "description": "Stress-testing applications with Selenium",
+        "NumDeCommits": "109"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/titusfortner/selenium",
+        "description": "A mirror of the Selenium source. Please file issues in Google Code. Also confirm you have signed the CLA (http://goo.gl/qC50R) when making a Pull Request.",
+        "NumDeCommits": "335"
+    },
+{
+        "name": "selenium-handler",
+        "url": "https://api.github.com/repos/fonsecas72/selenium-handler",
+        "description": "Gets, Starts \u0026 Stops Selenium Server with PHP",
+        "NumDeCommits": "133"
+    },
+{
+        "name": "selendroid",
+        "url": "https://api.github.com/repos/DominikDary/selendroid",
+        "description": "\"Selenium for Android\" (Test automate native or hybrid Android apps and the mobile web with Selendroid.) Join us on IRC #selendroid on freenode. Also confirm you have signed the CLA http://goo.gl/pAvxEI when making a Pull Request.",
+        "NumDeCommits": "375"
+    },
+{
+        "name": "selenium-objective-c",
+        "url": "https://api.github.com/repos/appium/selenium-objective-c",
+        "description": "Selenium WebDriver Bindings for Objective-C",
+        "NumDeCommits": "110"
+    },
+{
+        "name": "selenium",
+        "url": "https://api.github.com/repos/cisco-open-source/selenium",
+        "description": "Selenium bindings for Qt",
+        "NumDeCommits": "442"
+    },
+{
+        "name": "WebDriverTestingTemplate",
+        "url": "https://api.github.com/repos/djangofan/WebDriverTestingTemplate",
+        "description": "A Gradle template for JUnit Selenium WebDriver tests",
+        "NumDeCommits": "207"
+    },
+{
+        "name": "marketplace-tests",
+        "url": "https://api.github.com/repos/bebef1987/marketplace-tests",
+        "description": "Selenium Tests for Market Place",
+        "NumDeCommits": "152"
+    },
+{
+        "name": "RSelenium",
+        "url": "https://api.github.com/repos/johndharrison/RSelenium",
+        "description": "An R client for Selenium Remote Webdriver",
+        "NumDeCommits": "192"
+    },
+{
+        "name": "Socorro-Tests",
+        "url": "https://api.github.com/repos/peterbe/Socorro-Tests",
+        "description": "Selenium Tests for the Socorro ",
+        "NumDeCommits": "205"
+    },
+{
+        "name": "cspace-cucumber",
+        "url": "https://api.github.com/repos/cesarvh/cspace-cucumber",
+        "description": "Integration tests for CollectionSpace using cucumber-jvm, selenium, and jUnit",
+        "NumDeCommits": "128"
+    },
+{
+        "name": "SeleniumTestFramework",
+        "url": "https://api.github.com/repos/saiinfra/SeleniumTestFramework",
+        "description": "SeleniumTestFramework",
+        "NumDeCommits": "151"
+    },
+{
+        "name": "conemo_dashboard_features",
+        "url": "https://api.github.com/repos/cbrenner04/conemo_dashboard_features",
+        "description": "Selenium test suite for the CONEMO dashboard",
+        "NumDeCommits": "177"
+    },
+{
+        "name": "perl6-selenium-webdriver",
+        "url": "https://api.github.com/repos/azawawi/perl6-selenium-webdriver",
+        "description": "Perl 6 bindings for Selenium WebDriver",
+        "NumDeCommits": "179"
+    },
+{
+        "name": "robotium",
+        "url": "https://api.github.com/repos/jayway/robotium",
+        "description": "Like Selenium, but for Android",
+        "NumDeCommits": "380"
+    },
+{
+        "name": "Winium.Desktop",
+        "url": "https://api.github.com/repos/2gis/Winium.Desktop",
+        "description": "Winium.Desktop is Selenium Remote WebDriver implementation for automated testing of Windows application based on WinFroms and WPF platforms.",
+        "NumDeCommits": "187"
+    },
+{
+        "name": "cloudify-ui-selenium-tests-nodejs",
+        "url": "https://api.github.com/repos/cloudify-cosmo/cloudify-ui-selenium-tests-nodejs",
+        "description": "selenium tests for cloudify ui with nodejs ",
+        "NumDeCommits": "382"
+    },
+{
+        "name": "omelet",
+        "url": "https://api.github.com/repos/springernature/omelet",
+        "description": "Web Automation Framework for Selenium WebDriver built on top of TestNG",
+        "NumDeCommits": "271"
+    },
+{
+        "name": "SC",
+        "url": "https://api.github.com/repos/AleksNFedorov/SC",
+        "description": "Selenium port for concordion framework",
+        "NumDeCommits": "145"
+    },
+{
+        "name": "steward",
+        "url": "https://api.github.com/repos/lmc-eu/steward",
+        "description": "PHP libraries that makes Selenium WebDriver + PHPUnit functional testing easy and robust",
+        "NumDeCommits": "342"
+    },
+{
+        "name": "Selenium_on_pgb",
+        "url": "https://api.github.com/repos/YanShuai-Dilato/Selenium_on_pgb",
+        "description": "The project automates the I18N testing on PhonegapBuild website, using rspec, with Selenium::Webdriver",
+        "NumDeCommits": "191"
+    },
+{
+        "name": "vmmaster",
+        "url": "https://api.github.com/repos/2gis/vmmaster",
+        "description": "Automatic virtual machines manager for selenium-based testing",
+        "NumDeCommits": "1745"
+    },
+{
+        "name": "SizSelCsZzz",
+        "url": "https://api.github.com/repos/fschwiet/SizSelCsZzz",
+        "description": "Some selenium 2 utility code (find elements with jquery supported css selectors, other misc)",
+        "NumDeCommits": "210"
+    },
+{
+        "name": "library_search",
+        "url": "https://api.github.com/repos/upjohnc/library_search",
+        "description": "a little code with Selenium to do a search in the Nashville Library",
+        "NumDeCommits": "177"
+    },
+{
+        "name": "Xebium",
+        "url": "https://api.github.com/repos/xebia/Xebium",
+        "description": "Xebium provides Selenium (webdriver) bindings for FitNesse, with Selenium-IDE support",
+        "NumDeCommits": "217"
+    },
+{
+        "name": "seleniumQuery",
+        "url": "https://api.github.com/repos/seleniumQuery/seleniumQuery",
+        "description": "jQuery-like cross-driver interface in Java for Selenium WebDriver",
+        "NumDeCommits": "1166"
+    },
+{
+        "name": "pytest-selenium",
+        "url": "https://api.github.com/repos/davehunt/pytest-selenium",
+        "description": "Plugin for running Selenium with py.test",
+        "NumDeCommits": "224"
+    },
+{
+        "name": "Selenium-Java-Core",
+        "url": "https://api.github.com/repos/Orasi/Selenium-Java-Core",
+        "description": "Contains the source code and jars for core functionality of the Java Selenium UI and API frameworks.",
+        "NumDeCommits": "509"
+    },
+{
+        "name": "nightwatch-autorun",
+        "url": "https://api.github.com/repos/nkbt/nightwatch-autorun",
+        "description": "Zero-configuration runner to automatically install and run End-to-End tests with Nightwatch and Selenium",
+        "NumDeCommits": "256"
+    },
+{
+        "name": "robotium",
+        "url": "https://api.github.com/repos/cniclsh/robotium",
+        "description": "Like Selenium, but for Android",
+        "NumDeCommits": "159"
+    },
+{
+        "name": "HybridFramework",
+        "url": "https://api.github.com/repos/ashvinisharma/HybridFramework",
+        "description": "This is Selenium (Webdriver) + Java, automation code. Framework: Hybrid",
+        "NumDeCommits": "139"
+    },
+{
+        "name": "selenium-standalone",
+        "url": "https://api.github.com/repos/vvo/selenium-standalone",
+        "description": "get a `selenium-standalone install/start` command line to start a standalone selenium server with chromedriver, firefox, phantomjs support",
+        "NumDeCommits": "260"
+    },
+{
+        "name": "tfd_core_features",
+        "url": "https://api.github.com/repos/cbrenner04/tfd_core_features",
+        "description": "Selenium features for the TFD stack of host apps",
+        "NumDeCommits": "263"
+    },
+{
+        "name": "Merlot",
+        "url": "https://api.github.com/repos/OnkelHenky/Merlot",
+        "description": "Persona Based Accessibility Evaluation using Selenium, Cucumber, Node.js and Personas",
+        "NumDeCommits": "192"
+    },
+{
+        "name": "Dagger",
+        "url": "https://api.github.com/repos/NetEase/Dagger",
+        "description": "a Web UI autotest framework based on Selenium and TestNg",
+        "NumDeCommits": "165"
+    },
+{
+        "name": "selenium-connect",
+        "url": "https://api.github.com/repos/arrgyle/selenium-connect",
+        "description": "A configurator and runner for your Selenium tests against local and remote Selenium Servers.",
+        "NumDeCommits": "233"
+    },
+{
+        "name": "moztrap-tests",
+        "url": "https://api.github.com/repos/mozilla/moztrap-tests",
+        "description": "Selenium Tests for Case Conductor",
+        "NumDeCommits": "202"
+    },
+{
+        "name": "websuites",
+        "url": "https://api.github.com/repos/mkl-software/websuites",
+        "description": "Open-source project for JUnit extension to easily create complex Selenium Web Driver test suites",
+        "NumDeCommits": "259"
+    },
+{
+        "name": "groovy_autotest",
+        "url": "https://api.github.com/repos/micllo/groovy_autotest",
+        "description": "groovy学习以及groovy_selenium",
+        "NumDeCommits": "102"
+    },
+{
+        "name": "min-webdriver",
+        "url": "https://api.github.com/repos/mantoni/min-webdriver",
+        "description": "Pipe scripts to browsers using the Selenium WebDriver protocol",
+        "NumDeCommits": "105"
+    },
+{
+        "name": "s-tea",
+        "url": "https://api.github.com/repos/celeskyking/s-tea",
+        "description": "Tools of the web test, it`s design with the selenium, junit, robotframe",
+        "NumDeCommits": "107"
+    },
+{
+        "name": "sample_node_selenium",
+        "url": "https://api.github.com/repos/TestingCI/sample_node_selenium",
+        "description": "Selenium browser tests using nightwatch in Node.JS.",
+        "NumDeCommits": "125"
+    },
+{
+        "name": "PHP-SeleniumClient",
+        "url": "https://api.github.com/repos/Nearsoft/php-selenium-client",
+        "description": "PHP interaction with Selenium Webdriver API ",
+        "NumDeCommits": "101"
+    }
+]
