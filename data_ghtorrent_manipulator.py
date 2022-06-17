@@ -1,39 +1,30 @@
+from github import Github
+import github
 import json
-import csv
-import requests
 import os
 
+import file_handler
+
 token = os.environ['TOKEN_GITHUB']
-headers = {'Authorization': f'token {token}'}
+github = Github(token)
 
-def buscar_dados(url_project, headers):
-    response = requests.get(url_project + "/commits", headers=headers)
+def search_all_commits_by_repository_name(name_project):
+    try:
+        repository = github.search_repositories(query=f"{name_project}in:name")[0]
 
-    response_data = response.json()
-    print("Extraindo commits do projeto: " + url_project)
-    for i in range(len(response_data)):
-        try:
-            write_csv(url_project, response_data[i]["html_url"], response_data[i]["commit"]["message"])
-        except KeyError:
-            var = 0
+        commits = repository.get_commits()
 
-def write_csv(url_project, url_commit, message):
-    with open('resource\GHTorrent\Commits\commits_candidatos_robot.csv', mode='a', newline='', encoding="utf-8") as csv_file:
-        field_names = ["url_project", "url_commit", "message"]
-
-        writer = csv.DictWriter(csv_file, fieldnames=field_names, delimiter=';')
-
-        #writer.writeheader()
-        writer.writerow({"url_project": url_project, "url_commit": url_commit, "message": message})
+        for commit in commits:
+            file_handler.write_csv(commit.html_url, commit.commit.message)
+    except IndexError:
+                print(f"list index out of range")
 
 def read_json():
-    print("Lendo projetos candidatos")
-    with open("resource\GHTorrent\Projetos\Projetos_Candidatos_Robot.json", encoding='utf-8') as projetos_candidatos:
+    with open("resource\GHTorrent\Projetos\Projetos_Candidatos_FrontEstruturas.json", encoding='utf-8') as projetos_candidatos:
         projetos = json.load(projetos_candidatos)
 
-    print("Extraindo commits e salvando em arquivo csv")
     for i in projetos:
-        url_project = i['url']
-        buscar_dados(url_project, headers)
+        name_project = i['name']
+        search_all_commits_by_repository_name(name_project)
 
 read_json()

@@ -1,0 +1,338 @@
+url_project, url_commit, message
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/b25cb4c88c087ee82160ce7d19a36be6ceaa3fcb,"Force Makefile to use bash for the shell.
+
+(Default shell is likely to be something like dash on Ubuntu/Debian systems.)"
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/73ff37eb89ada05e755bec278fbea0c96e534b89,Merge branch 'ep0utils'
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/c665d755b18d7502867b962cf006082a41b8555a,"Adding useful functions for ep0.
+
+These functions are very careful about setting SUDPTRCTL correctly before
+sending/receiving."
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/3590a1dadf4495f3e32b5876b1369d3e6cf19024,"Merge branches 'travis-docs', 'isr-uart-i2c' and 'setupdat-comment'"
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/3f1f0a4f6445a96c25f4a1af65b616b7dfed9775,Slight reformatting of the descriptor section.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/92f83e41b6dbb8fcf71ac4c18e18181459933dc5,Improving the documentation.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/a3d6db1a7e3a25a1140a367a817708bcc47ece0e,Cleaning up the printfs in setupdat.c
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/c3fcb7107a68293d9043155a950e02c16352753a,Fixing formatting on a bunch of setupdat functions.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/7e4a75b1ba632e42d5152f751f8c9f6722bae588,More formatting fixes.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/99b7e745032c5150b0e1c1d16c1a149b3cda3926,Small formatting fixes.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/196145fd89a3f33572c4114538eb2bfa48c0c23c,"Cleanup ep_addr function.
+
+ * Fix the formatting.
+ * Adding documentation.
+ * Fix comments."
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/b37d0e6049b4d586504f2f84b20c951e5ebc5153,Fixing a couple of small comments.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/7ffed96e12802a91f68cd2099be38c5d91edcfd6,Adding comments about the descriptor pointers.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/db792d017e4cd2af627bc0b540fc184c3957e9e6,Fixing formatting of the handle_highspeed function.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/452b4dbb613319f789e91cc9711cb985b3e3d80d,Adding some comments to handle_hispeed function.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/c9dd5fad138a84c88ad5c07c9e6f4e44a14a852c,Small cleanup of docs.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/9b7ea21077887abec6c49d2f20c6b5ddf38bac5d,Small caps fixes.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/bd78faf792f68b4dc64e7cba8ee205d1e709d0d6,"Adding USART and I2C interrupts.
+
+(Plus some slight cleanup.)"
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/c0bcc69d0f35d8e65bae0ed09e1d4723fe79eda9,Fetch the gh-pages branch.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/df3a94a400d8f6d1045f3b4caca58b0c61901e6c,Add script to .travis.yml
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/0c722adaad68962f8221e8e4450cd88a0e7a7ec0,Don't accidentally reveal the GH_TOKEN.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/4353279429adb4654046eb87c414a951766fe5af,Only push for master branch and added README.md file to gh-pages.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/04eb4337448c54999cda4bbfa0fd1b21cd3ee8e1,Detect shallow or not.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/1658ce418a63a8b456b1a459be0c622b324383f1,Adding script to push docs from Travis to GitHub pages.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/65cc7da3ce3a3c24f4f433cb19e84c6588ca1481,"Resolve enumeration warnings
+
+Resetting SUDPTRCTL to Auto Mode in handle_get_descriptor (as other parts of
+the firmware may clear it).
+
+The following errors were reported by Linux:
+
+  reset high-speed USB device number 13 using ehci-pci
+  usb 1-1.1.6: device descriptor read/64, error 2
+  usb 1-1.1.6: device descriptor read/64, error 2
+
+Eventually Linux will stop enumerating the device at all, with an error
+such as:
+
+  unable to enumerate USB device on port 6"
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/97ec6be85d466575b728870514a40779d9b9fed6,Allow disabling the suspend code.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/e81a2b9a2fa4adea4d46d54da5cb2e8990faee0d,Install doxygen & rubber and build the docs.
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/aaa470e377ca0bf861244b10cdf4bdc4615d8bc1,"Merge pull request #21 from StefanBruens/master
+
+Cleanup of autovector interrupt code"
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/0c3977cca815b18d299db3edb32344565f202a06,"Avoid multiple evaluation of argument to RESETTOGGLE macro
+
+If the argument evaluation has side effects, the expansion has unwanted
+effects. Also the evaluation may be expensive (e.g. fetching data from
+a volatile register).
+The new code can be better optimized by sdcc, and avoids fetching contents
+from the volatile TOGCTL register."
+https://api.github.com/repos/RacingTornado/fx2lib,https://github.com/RacingTornado/fx2lib/commit/7af0c343cfe51718ac79276b47d8f2dc959cd754,"replace USB/GPIF autovector asm code with normal interrupt
+
+The jump table is target for both the USB as the GPIF interrupt. Including
+autovector.h references the _gpif_isr/_usb_isr symbols and forces linking
+of the jump table.
+
+Signed-off-by: Stefan Brüns <stefan.bruens@rwth-aachen.de>"
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/7aee2bc796825e6025200341ac7ab724927337c1,release 0.14.0
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/c7e867bf782a4b252310961fd295c74f99fe3be4,updated changelog for version: 0.14.0
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/abbf2b26cbc1c56a817d7a55c6429c6b5e1c2a9f,"Check version - do not allow new versions to be installed using cypress-cli (#22)
+
+* add Cypress version check
+
+* update tests to pass cypress version
+
+* add tests
+
+* Update error message ,-)
+
+* update readme
+
+* fix chalk and update readme
+
+* Remove additional sections"
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/529e4e4809f864e533f74f3baec94ad747550261,"Deprecate cli readme note (#21)
+
+* add deprecated text to the readme
+
+* tweak text a little
+
+* Add link to installing via NPM doc"
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/585435e88734781d00e198cffe88fce0df11e1df,bump cypress coffee script and releaser dep
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/09e5145ec6d1dc9c15b8ed4521443aedc66e90f6,bump node-version
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/f52525b4585aa6d811e8f980aa2f6329d2b3caa0,release 0.13.1
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/febcc0d406e34f3b1f27a9ea0cd4132096fab545,updated changelog for version: 0.13.1
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/7a763a04d0ca1ae48cc452e039c7f9a51ae4eaa5,"pass --cli-version into cypress, add --record option"
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/85902a3687ca7261777f443554f468eca8047db8,release 0.13.0
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/4035ec89e6b04cc7fbe4d88dc350a9fddeb8cc2c,updated changelog for version: 0.13.0
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/78cb409659bf89b001fc79cbd895c06d6123120c,properly handle --no-record arg
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/4bccc47d1fd8aa46e9f63394fddb7436a3ae4d41,accept --key arg for cypress run
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/4a1607b5b4134b0a2cc2eedfb5df1ecad6b642d5,continue passing --ci arg for deprecation message
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/b869e00015b08e14240245f5420058c3914ce3cf,remove passing --project arg on 'cypress open'
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/6e442579964a2a157f62533165ed43e8e095abf2,"deprecate 'cypress ci', expand 'cypress run'
+
+- allow ‘cypress run’ to verify + install if not installed
+- no longer pass —ci args
+- enable passing —no-record
+- deprecate cypress ci message
+- check for CYPRESS_RECORD_KEY env var
+- refactor some of these horrendous class interfaces (why god why)"
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/3f861e1111425814670333090352f86f48742a7b,pull out docs -> reference official docs
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/c75695e57332abd3570dd6cae22f69a6b16c018f,conditionally spawn xvfb more intelligently
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/fbaa57e9063a4fb250b88293baa73ea8ea43cc06,release 0.12.2
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/c8b5671c4f75baa4f207153d1eba0e0da72d52d2,updated changelog for version: 0.12.2
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/764d83f77625ab017caf61224e9612487d7b6155,bump core releaser
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/36b33003a0f533c2a230e2efa078260bc26d62ea,release 0.12.1
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/b7e62cc9837dce319e05b49c35302c29d1d74f4c,updated changelog for version: 0.12.1
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/ab8c427fd966ccb8936b43b807fe6528a2e6e44f,bump update notifier
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/fbf5160aea870e421ec216d2dcfac41553e61399,Remove Pivotal Tracker link from readme
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/399ee0ae5ea10384b8775bc7871b204f545e79a0,Update readme.md
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/09742e4d103041dfc5219b4c7c35943d2dc4195e,release 0.12.0
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/094ba4e2a039ff77cedf9f13b18fde2b473f26ef,updated changelog for version: 0.12.0
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/2ca1f1be4cb8f42cd01f65da635dd1a8bb24d66c,Merge remote-tracking branch 'origin/custom-reporters'
+https://api.github.com/repos/cypress-io/cypress-cli,https://github.com/cypress-io/cypress-cli/commit/7553259bc92b42ab1fa7d36d0fd958af44b127e6,remove .only
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/ab10094ef7b199ae7febafec413a0626414bcd3c,"chore: use one cross-platform start script (#549)
+
+* create start script
+
+* start:ci, start:ci:windows -> start
+
+* remove/update :windows commands"
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/0fa63892031c7dc6a39f023a9c2c4b865a56221f,Merge pull request #541 from cypress-io/renovate/major-9-cypress
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/88fbe5c8b85c2475ae2a14fc3c162e8227d4367b,chore(deps): update cypress to 9.5.4 🌟
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/c0cbcb09e4636b2e7aa03bf3d26ee287a65bc036,"Merge pull request #543 from cypress-io/issue-539-fix-release
+
+fix: Add semantic-pull-request checking"
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/9c309f78a28f08fc4866baf7b4f5f4d70df1721b,fix: Add semantic-pull-request checking
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/1368dd119aadfe1d3b652122338128c036a847a3,"Merge pull request #540 from cypress-io/issue-539-remove-placeholder-images
+
+Replace placeholder images with divs"
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/4aa1cb248d9f8e896eea51991f3cd12eab8184eb,Replace placeholder images with divs
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/a7081ef25eaa5037999a5c1217b99c820ee4d8e5,"Revert ""fix: Include image rather than relying on placehold.it""
+
+This reverts commit a40b5be93b588f6b3c26f8a007e8338c3b281f33."
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/a40b5be93b588f6b3c26f8a007e8338c3b281f33,fix: Include image rather than relying on placehold.it
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/381d42af1b0e682843c79848919462ba420e6592,Remove TypeScript dependency and scripts (#504)
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/3ca0a567dde1f7a34643b05ba8c4acee0d2afb03,Remove typescript checking (#503)
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/bb2d77796808a41c915cea093c0c30551cd93a24,fix typo (#500)
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/1572887a2003c2f35ff46d14f5f1cdfef975c9be,"fix: Remove second arg from cy.wrap, this is not accepted (#496)
+
+Co-authored-by: Zach Panzarino <zachary@panzarino.com>"
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/124a529604724acfe5ba1ee58ee46e50fb677f15,Fix electron font warning for todo spec (#497)
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/c51c0aa7963f0f52377fe91e2bad5e219a41c251,"Merge pull request #489 from cypress-io/dx-47-update-aws-codebuild-missing-committer
+
+Update AWS CodeBuild Guide to set Git COMMIT_INFO variables"
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/2bb346571d69ecd85bf47dc01903a97f85ea4367,Merge branch 'bwinchester-patch-1'
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/38eb1e25b260c99a7d5029b8478aacd6db9b4d95,Merge branch 'patch-1' of https://github.com/bwinchester/cypress-example-kitchensink into bwinchester-patch-1
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/319d0d3913ec7e002e000381a8bdee89969ed543,fix: revert plugins file changes (#491)
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/a98c3bf3c219adecffd4201fe584e2799a2758d5,Merge branch 'master' into dx-47-update-aws-codebuild-missing-committer
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/93c6f24990f1ce0c87688e232b865baa39565865,"feat: add todomvc example for use in updated scaffolding (#481)
+
+Co-authored-by: Jennifer Shehane <jennifer@cypress.io>"
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/0b1d8f859bc6dec1d416069ff16505c99903159c,Update dependency cypress to 7.3.0 (#490)
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/3bbb2fe8bcb8ba146ea7a11002e586aeb727fff4,Update AWS CodeBuild Guide to set Git COMMIT_INFO variables
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/b34082b72e829a5b192e1d0fe8084ad5f53ccf2d,add link to the CI workshop
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/0cf2a960fea4804271a9e5273d2ed8e246dd9e21,enable appveyor firefox testing (#475)
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/29ddccba640fe5953ff6204c47c33fd79e9479db,bump Cypress to 6.7.1 (#473)
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/4b184426f04232e4bab318dbc21dcd489e92ad59,add test:ci:windows script name
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/745db1614ce8ab6e907ac12e0163d19583ef5703,bump Netlify to v2 preview (#472)
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/d61bf08924cfd3361e88c71d343d1a4a949e92ba,"Add AWS CodeBuild Basic and Parallel config file examples (#450)
+
+* Add AWS CodeBuild basic and parallel config file examples
+
+* update wording
+
+* update example to use build-matrix
+
+* update node runtime version for buildspecs
+
+* update node runtime version to be latest for buildspecs"
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/2f1b96b9c1fa8be725e6b934ffaf8d1347f1a798,add link to codefresh example project
+https://api.github.com/repos/cypress-io/cypress-example-kitchensink,https://github.com/cypress-io/cypress-example-kitchensink/commit/c6cf68c858b2a7372d24b59a57d0b770f8cc1374,bump netlify plugin
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/057b2c41a95fbe912cfee92de386ef8e4c15e2c5,"Merge pull request #30 from smoe/sdcc_readme
+
+Small updates to the README file."
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/1ff0e4caa34bc6ef51f149ecb914731660ef0b41,Debian pakages in support of fx2lib
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/905860c844c97efc1c323a89422d4eb0237fd63b,"Merge pull request #28 from miselin/osx-improvements
+
+Improve initial experience on OSX"
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/291a25f279b9e58010e5e25354400262b27426e9,added osx notes to readme
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/2587960926f89b6a4cbe6a0fe10f8791e5649ed3,update fx2load to use correct product id by default
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/94c25072dbe56729c1e5640a2b4a92cf9b51034d,pull in /usr/local for includes and libraries when building fx2 module
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/0b111e8bb88364c43160cd33eb2d52da1a6e3d38,don't try and build debugdevice_full_duplex on osx
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/d0dec262f4d066887c05165f1b37e5767e47fac5,"Merge pull request #27 from miselin/master
+
+Allow objcopy/fx2load to be specified in fx2.mk"
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/3eb145bb8d2aa78bdfb69878c968ced6e1f0352b,allow objcopy/fx2load to be specified in fx2.mk
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/b25cb4c88c087ee82160ce7d19a36be6ceaa3fcb,"Force Makefile to use bash for the shell.
+
+(Default shell is likely to be something like dash on Ubuntu/Debian systems.)"
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/73ff37eb89ada05e755bec278fbea0c96e534b89,Merge branch 'ep0utils'
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/c665d755b18d7502867b962cf006082a41b8555a,"Adding useful functions for ep0.
+
+These functions are very careful about setting SUDPTRCTL correctly before
+sending/receiving."
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/3590a1dadf4495f3e32b5876b1369d3e6cf19024,"Merge branches 'travis-docs', 'isr-uart-i2c' and 'setupdat-comment'"
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/3f1f0a4f6445a96c25f4a1af65b616b7dfed9775,Slight reformatting of the descriptor section.
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/92f83e41b6dbb8fcf71ac4c18e18181459933dc5,Improving the documentation.
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/a3d6db1a7e3a25a1140a367a817708bcc47ece0e,Cleaning up the printfs in setupdat.c
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/c3fcb7107a68293d9043155a950e02c16352753a,Fixing formatting on a bunch of setupdat functions.
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/7e4a75b1ba632e42d5152f751f8c9f6722bae588,More formatting fixes.
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/99b7e745032c5150b0e1c1d16c1a149b3cda3926,Small formatting fixes.
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/196145fd89a3f33572c4114538eb2bfa48c0c23c,"Cleanup ep_addr function.
+
+ * Fix the formatting.
+ * Adding documentation.
+ * Fix comments."
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/b37d0e6049b4d586504f2f84b20c951e5ebc5153,Fixing a couple of small comments.
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/7ffed96e12802a91f68cd2099be38c5d91edcfd6,Adding comments about the descriptor pointers.
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/db792d017e4cd2af627bc0b540fc184c3957e9e6,Fixing formatting of the handle_highspeed function.
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/452b4dbb613319f789e91cc9711cb985b3e3d80d,Adding some comments to handle_hispeed function.
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/c9dd5fad138a84c88ad5c07c9e6f4e44a14a852c,Small cleanup of docs.
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/9b7ea21077887abec6c49d2f20c6b5ddf38bac5d,Small caps fixes.
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/bd78faf792f68b4dc64e7cba8ee205d1e709d0d6,"Adding USART and I2C interrupts.
+
+(Plus some slight cleanup.)"
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/c0bcc69d0f35d8e65bae0ed09e1d4723fe79eda9,Fetch the gh-pages branch.
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/df3a94a400d8f6d1045f3b4caca58b0c61901e6c,Add script to .travis.yml
+https://api.github.com/repos/mithro/fx2lib,https://github.com/mithro/fx2lib/commit/0c722adaad68962f8221e8e4450cd88a0e7a7ec0,Don't accidentally reveal the GH_TOKEN.
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/3981dc41b03e22e3e3884c2f96e2b4a1ca19dfbd,Github: Fixes issue #2
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/269600316dc0b300298e62ec8f3f3282d411824f,"recenter, zoom 14"
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/d59d8183f67b40fcd6c5d27bc4d07429690dbede,new map center & zoom
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/4c21a6017fe4292a8ef554babafba4fb8d53c35d,handle deletes of attributes from UI
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/f3a3db9f888144f6bafa98ea2bd263402c8df75d,switch to native bindings
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/4b55cf4b19c8b8cd205e8704de4d02e94a55055e,Merge branch 'master' of github.com:transistorize/airquality
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/d0c16602bba117635a3eca3d377fa8b66f29f2c1,more upload fixes and logging
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/c27398ad682f238db8531db9a9e85137dd8e3230,pulling out time chart for now
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/bd60771803a8373529060c2c19283da55701f519,fix form while testing update
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/43359fbd4af4097e55fb7f5c790d2b7adfcd47c8,"upload and update, alpha 1"
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/52f24849393b6358df4e57a900e8f7d73a07cf8e,Merge branch 'master' of github.com:transistorize/airquality
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/7889e055ab77344a9bfec38ff9d176526e0046db,working on scale for single egg view
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/b8c6f8b8b4d582e93259c3dd3fc614337b164ab2,working on scale
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/dbfae40249904f2897c4a6a275d6ef1b4f33b912,fixing scale on time chart
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/763630ffe7ea4934f3f45d4354d213a3817033bd,adding a date chart
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/225901f427fb40c99e59804a1115b0d21093726d,Merge branch 'master' of github.com:transistorize/airquality
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/e7552dcf265cf35749a8e83dcc778515ead4d380,add encoding types
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/0e239577b04181fd3e23e2b290429e816909a4ff,remove search from map form
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/bd25c9a7348c3873aa7134085a624129e7ab3ead,change map style
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/924a614b9fff6bc00111017f60c9fb083f4dd8b3,improve icon
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/f2631aa10c530b027a938de9304f0be2659b26f1,add icon shadow on map
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/62ff66077f33b6e541a58dda4094ee7654d30e10,remove logging
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/8cecc96eaa15a18ace41aef3fd024ba4695b5987,header size
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/a90b886aab26a5ade8b8f1843fdb668742801e49,header font size
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/f8e5ff4bdec0fb0d3c7f251f832b3509636d2c3f,font sizing with new font
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/4c8da185b5030fc83cc60f0d997cf30742ba854e,changing the font to citydigits font
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/1200570451b60b5d0fc8af432338df63e212fc03,better language on the popup
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/2f7671af9054090e460b7a427e15ccdac13ecaac,better pop with working link
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/d8c0c9bf167d7ebec6d2241dbe571c939523c1cc,more info popup
+https://api.github.com/repos/transistorize/airquality,https://github.com/transistorize/airquality/commit/49acd80e395f25c20d7f04ca021c4f31e201a457,better popup
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/2fa72d7eed54ae9ed1db6b3268bba93be3528b80,Fix `visit` prefixes section link (#4476)
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/6f49fd76ec5c452db9d7c5e72bc7a744bf787390,Update roadmap date (#4474)
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/559905203a3f8adb8501c0ce3a0aa6e82859c0d0,Merge pull request #4471 from cypress-io/9.6.1-release
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/778265e29122c5ca3b3eb4949f9ff672855f43fa,add remaining open pr changelog entry
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/7ffbd35e4ac0d543946293f9c80a516dd007973d,9.6.1 changelog.
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/a665789cb6add055a2cb0ab9092107ab76b23bcf,Merge pull request #4468 from cypress-io/update-community-links
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/78c80c227c1b2c4d7aee8cbddef52024a6664c8e,docs: update wording
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/f5af20411d359adcee6fda89d787163993aa8dbb,docs: update discord link
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/4f6005b4b32602cc1dd7ae8cd6586fe3f1bbb607,docs: update references to gitter in favor of discord
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/452b944d83f1e9136d9f4e5bc8e18e5aaf478005,"Fix links to GitHub PRs in 9.5.4 (#4447)
+
+Co-authored-by: Emily Rohrbough <emilyrohrbough@users.noreply.github.com>"
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/fb04684693db309bf47006171aced29d3c67042e,"Fix links to GitHub PRs in 9.5.2 (#4445)
+
+Co-authored-by: Emily Rohrbough <emilyrohrbough@users.noreply.github.com>"
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/cb940157e77bef4fff609d93436429a8fc594494,"Merge pull request #4456 from cypress-io/update-stub-image
+
+chore: API/Stub.md image to show newer UI"
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/4a4ead478937a80fd17ad23daf5ac245ee5f70f9,Merge branch 'master' into update-stub-image
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/d51ff2251f1993236ffb5695a76361e3281b2305,"Merge pull request #4455 from cypress-io/add-cypress-chrome-recorder
+
+feat(plugins): add cypress chrome recorder to plugins page"
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/0e33a8e710dd1c3a627e6c668033a89f2fb40086,chore: update image to show newer UI
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/e90aa23cb938778505829658196dd513180dd1a2,Merge branch 'master' into add-cypress-chrome-recorder
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/2d51adeb173f15875e78a44883b10ed3d0ab6551,feat(plugins): add cypress chrome recorder to plugins page
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/eacec0abd268a790ec642bf84d56ee2634f49fc5,"Merge pull request #4454 from cypress-io/content/fix-cy.origin-api-page-typo
+
+Fix typos in migration code examples"
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/f3a0eae80e73154bdcfa41db3bf2161097d687e7,Fix typos in migration code examples
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/2e774cb66acd276f56a2a5e0b90ce673154cf844,"Merge pull request #4453 from cypress-io/dx-865-docs-add-origin-video-to-api-page
+
+added the origin video to the top of the origin API page"
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/0a29f00e9a9600acbe7e23219e7f1d466c71c677,added a learn more section to the origin API doc page and added the video to it.
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/3bf2c2acaef6a10135899fc69004baaefbf8d709,added the origin video to the top of the origin API page
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/663e968509c58401364fbef0d9d3a950bcc9a1f1,"Merge pull request #4452 from cypress-io/content/update-cy.origin-api-page
+
+Update cy.origin API docs with last-minute changes"
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/92da125bf7c7d0fad93f42f7fe51da9201f7ce44,Revert to the original summary
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/eb9ce51df209a00a53b1b212954e9b2f15336290,Update cy.origin API docs with last-minute changes
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/8f594fdea85c75d1509dce27a5194413b50d7469,Merge pull request #4451 from cypress-io/ryanthemanuel-patch-1
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/52f6b14a15c233cbfb8c3ceac06484317fafebf3,Update 9.6.0.md
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/0cf87f412f5772f1d24d426c3189099f7839b9c9,Merge pull request #4446 from cypress-io/9.6.0-release
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/e016185e12b568559359962074ab2d8efe2c546c,lint
+https://api.github.com/repos/cypress-io/cypress-documentation,https://github.com/cypress-io/cypress-documentation/commit/769dc7b69a37e0d37895789cbff2f824041a8e30,Update content/guides/references/roadmap.md
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/655e2d544183d094f0e2d119c7e0c6206a0ddb3f,Merge branch 'fix-windows-build'
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/ada97ef5dbbefe313c636918fd44331e067dad8f,Test artifact push
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/e0fe63c15d0b588b4602a962ba381e5a9995a9a6,"Don't build the tools on Windows
+
+This reverts commit 7790c9a7e8d2ab2c09d1dc52b4db23c9ec69c697."
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/7790c9a7e8d2ab2c09d1dc52b4db23c9ec69c697,Fix cyusbserialtest
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/361c6f554fe2c8472ac03acdcbb134adc75f575e,Probably the last pthreads fix
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/409078da9e6a81e39cc72040721a1827ca2af761,Read the SPI status register correctly
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/378d8f2bb6f77d2c706e3cf7c1630417cdc34715,"Possible pthread fixes, part 2"
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/23cc938e4661cbf9539a261b66fa4b7dbd248d1f,Potential pthread fixes
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/83f6a6a0ef6e469d185ab7c33069e44bfd3e51e0,Got rid of c.h
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/7acf2f63997268ea1193897d852cb8d9e1277919,Last try before simplifying everything
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/7e9624b16cbdc2ff88b3f669d71804606b43b070,"Maybe this time, with a lowercase void"
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/0d4b3314da26658a3cc407686134e7588a8c6217,Hopefully this is all that was needed from c.h
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/d5e16fcf03fcccbe5295298d90dfdca62df888a7,Added usleep
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/9620e4b6b7ed89a9e6a0c36b8042496c84ec3f8c,Let's see how this builds...
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/5737a0c424a03b39ebeb333698f4cce621736774,Added c.h for gettimeofday.c
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/990c221c3fdff3ec4f04bad8992521eb86dec78a,Forgot to actually add the code in the previous commit
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/f0c83bbb1e06e8f7ca481b6e49dfc00a10adf334,First attempt to fix gettimeofday
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/03a8bd73427e9a91cef17ca192f2f5984972bafe,Removed extraneous semicolon
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/95962f5f940c1a8e52edcfe4e6b11b9a06c47809,Try fixing the struct comparison issue
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/78c50d577dd2d4eb4ebf9fbc7aa7910ef5e5a912,Don't cast int to pthread_t
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/5f908f81bfca40a55fe2221823cfa68d6f3c6cd1,Try to fix DLL error stuff
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/e3f26f2edafec33817765120e2a1ba7d5167a3d6,Use VS 2013
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/c7152e822b12f61e3f0cc2af171d25d061255c69,Fix timespec issues
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/18351484488900687f8bf94b2ecece7a486c724c,Moved files
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/02b226a9c07e1b6a3fd4a097e13172b3b8b69680,Type definitions
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/1cf7930486b7ea315173903add9e6376ea5611d9,Changed libusb.h include path
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/be7e57f9b473bcfd8fda4445e2992fef826a15dd,Small changes
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/2ae1a939ff18813e179d618863bea7c389d785e9,Added include path define
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/e2057dc30392ef9c30723050f7398bc8fd2bf693,Un-break non-Windows build
+https://api.github.com/repos/cyrozap/libcyusbserial,https://github.com/cyrozap/libcyusbserial/commit/5a1686338035a7be1554b5a18fd826e7fa468ba5,Added missing library and include configs

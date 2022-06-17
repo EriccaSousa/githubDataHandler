@@ -1,34 +1,31 @@
 from github import Github
-import requests
+import github
 import os
 
-import csv_manipulator
+import file_handler
 
 token = os.environ['TOKEN_GITHUB']
-headers = {'Authorization': f'token {token}'}
+github = Github(token)
 
 def search_respositories_by_topic(topic):
-    github = Github(token)
-    headers = {'Authorization': f'token {token}'}
+        print("BUSCANDO REPOSITÓRIOS")
+        repositories = github.search_repositories(query=f"{topic}in:name,description,topic")
+        
+        search_all_commits_by_repository(repositories)
 
-    print("Step 1 - Buscando repositórios")
-    repositories = github.search_repositories(query=f"{topic}in:name,description,topic")
-    print("Total de repositórios encontrados: ") 
-    print(repositories.totalCount)
-
-    print("Step 2 - Buscando todos os commits dos repositórios candidatos")
-    print("Salvando commits candidatos em arquivo csv")
-    for i in repositories:
-        i.get_commits().totalCount;
-        search_commits_by_repo_cadidates(i.owner.login, i.name, i.url, headers)
-
-def search_commits_by_repo_cadidates(repo_owner, repo_name, repo_url, headers):
-    response = requests.get(f"https://api.github.com/repos/{repo_owner}/{repo_name}/commits", headers=headers)
-
-    response_data = response.json()
-
-    for i in range(len(response_data)):
-        try:
-            csv_manipulator.write_csv(repo_name, repo_url, response_data[i]["html_url"], response_data[i]["commit"]["message"])
-        except KeyError:
-            var = 0
+def search_all_commits_by_repository(repositories):
+    for repo in repositories:
+            commits = repo.get_commits()
+            print("----------------------------------------------------------------------")
+            print(f"VERIFICANDO SE REPOSITÓRIO {repo.name} ATENDE AOS REQUISITOS")
+            try:
+                if(commits.totalCount > 100):
+                    print(f"repositório {repo.name} atende aos requisitos")
+                    print(f"EXTRAINDO COMMITS")
+                    print(f"Total de commits a serem extraídos: {commits.totalCount}")
+                    for commit in commits:
+                        file_handler.write_csv(commit.html_url, commit.commit.message)
+                else:
+                    print(f"Repositório {repo.name} não atende aos requisitos")
+            except github.GithubException:
+                print(f"Erro desconhecido ao acessar repositório {repo.name}")
